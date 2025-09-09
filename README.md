@@ -36,14 +36,13 @@ Welcome to our repository, IIT Guwahati's Post Graduate Certificate in Data Scie
 
 ---
 ## E-Books
-| Name of the Book                                         | E-book Link                                                                 |
-|----------------------------------------------------------|------------------------------------------------------------------------------|
-| All of Statistics                                        | [Click Here](ebooks/all-of-statistics(github).pdf)                          |
-| Probability and Statistical Inference, Tenth Edition     | [Click Here](ebooks/Probability%20and%20Statistical%20Inference,%20Tenth%20Edition.pdf) |
-| Probability and Statistics for Data Science              | [Click Here](ebooks/probability_stats_for_DS.pdf)                           |
-| IBM Cloud for SAP                                        | [Click Here](ebooks/SAP%20IBM.pdf)                                          |
-| StatQuest Illustrated Guide to Machine Learning          | [Click Here](ebooks/the_statquest_ML.pdf)                                   |
-
+| Name of the Book                                         | E-book Link                                                                                      |
+|----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Probability and Statistical Inference, Tenth Edition     | file:///C:/E-Books/Probability%20and%20Statistical%20Inference%2C%20Tenth%20Edition.pdf          |
+| All of Statistics                                        | file:///C:/E-Books/all-of-statistics%28github%29.pdf                                             |
+| Probability and Statistics for Data Science              | file:///C:/E-Books/probability_stats_for_DS.pdf                                                  |
+| IBM Cloud for SAP                                        | file:///C:/E-Books/SAP%20IBM.pdf                                                                 |
+| StatQuest Illustrated Guide to Machine Learning          | file:///C:/E-Books/the_statquest_ML.pdf                                                          |
 ---
 
 ##  Acknowledgements
