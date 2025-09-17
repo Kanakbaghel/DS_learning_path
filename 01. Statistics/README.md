@@ -343,3 +343,129 @@ Maintain notes, formula sheets, solved problems, and code snippets for quick fut
 </tr>
 </table>
 </details>
+
+<details>
+<summary><b style="color: #8B7D8B;">Phase VII: Deepening Theoretical Understanding (Click to expand)</b></summary>
+
+<table style="width: 100%; background: linear-gradient(180deg, #F3E5F5 0%, #FCE4EC 100%); border-radius: 15px; padding: 20px;">
+<tr>
+<td width="5%" align="center" style="color: #6A1B9A; font-weight: bold;">01</td>
+<td width="25%"><b style="color: #4A148C;">Sampling Theory & Non-parametric Methods</b></td>
+<td style="color: #4A148C;">
+Understanding sampling distributions, law of large numbers, and Central Limit Theorem. Explore non-parametric tests like Wilcoxon, Sign test, and Kruskal-Wallis for data without strict assumptions.
+</td>
+</tr>
+<tr style="background: rgba(243, 229, 245, 0.2);">
+<td align="center" style="color: #6A1B9A; font-weight: bold;">02</td>
+<td><b style="color: #4A148C;">Experimental Design & Multicollinearity</b></td>
+<td style="color: #4A148C;">
+Learn principles of randomization, blocking, factorial designs. Detect and handle multicollinearity in regression models to improve model stability and interpretation.
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #6A1B9A; font-weight: bold;">03</td>
+<td><b style="color: #4A148C;">Dimensionality Reduction & Advanced Linear Algebra</b></td>
+<td style="color: #4A148C;">
+Study techniques like Principal Component Analysis (PCA), Singular Value Decomposition (SVD), and spectral theory to reduce data complexity and extract meaningful features.
+</td>
+</tr>
+<tr style="background: rgba(243, 229, 245, 0.2);">
+<td align="center" style="color: #6A1B9A; font-weight: bold;">04</td>
+<td><b style="color: #4A148C;">Vector Calculus & Convex Optimization</b></td>
+<td style="color: #4A148C;">
+Explore gradients, Jacobians, Hessians, and chain rule in multivariate calculus. Understand convex sets, convex functions, and optimization techniques critical for machine learning.
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><b style="color: #8B7D8B;">Phase VIII: Stochastic Processes & Numerical Methods (Click to expand)</b></summary>
+
+<table style="width: 100%; background: linear-gradient(180deg, #E0F7FA 0%, #B2EBF2 100%); border-radius: 15px; padding: 20px;">
+<tr>
+<td width="5%" align="center" style="color: #00796B; font-weight: bold;">01</td>
+<td width="25%"><b style="color: #004D40;">Advanced Probability Functions</b></td>
+<td style="color: #004D40;">
+Moment generating functions and characteristic functions for understanding distributions and convergence properties.
+</td>
+</tr>
+<tr style="background: rgba(224, 247, 250, 0.2);">
+<td align="center" style="color: #00796B; font-weight: bold;">02</td>
+<td><b style="color: #004D40;">Stochastic Processes</b></td>
+<td style="color: #004D40;">
+Study Poisson processes, Markov chains, and Brownian motion to model random processes evolving over time.
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #00796B; font-weight: bold;">03</td>
+<td><b style="color: #004D40;">Monte Carlo & Numerical Optimization</b></td>
+<td style="color: #004D40;">
+Learn Monte Carlo simulation techniques for probabilistic modeling and numerical methods for optimization problems without closed-form solutions.
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><b style="color: #8B7D8B;">Phase IX: Statistical Modeling & Inference (Click to expand)</b></summary>
+
+<table style="width: 100%; background: linear-gradient(180deg, #FFF3E0 0%, #FFE0B2 100%); border-radius: 15px; padding: 20px;">
+<tr>
+<td width="5%" align="center" style="color: #EF6C00; font-weight: bold;">01</td>
+<td width="25%"><b style="color: #E65100;">Generalized Linear Models (GLM)</b></td>
+<td style="color: #E65100;">
+Logistic regression, Poisson regression, and other GLMs with link functions to model various types of response variables.
+</td>
+</tr>
+<tr style="background: rgba(255, 243, 224, 0.2);">
+<td align="center" style="color: #EF6C00; font-weight: bold;">02</td>
+<td><b style="color: #E65100;">Survival Analysis & Mixed Models</b></td>
+<td style="color: #E65100;">
+Techniques for time-to-event data analysis and hierarchical/mixed effects models for data with nested or grouped structure.
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #EF6C00; font-weight: bold;">03</td>
+<td><b style="color: #E65100;">Bootstrap & Resampling</b></td>
+<td style="color: #E65100;">
+Non-parametric methods for estimating sampling distributions, confidence intervals, and hypothesis testing without strict parametric assumptions.
+</td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><b style="color: #8B7D8B;">Phase X: Mathematics for AI & Deep Learning (Click to expand)</b></summary>
+
+<table style="width: 100%; background: linear-gradient(180deg, #E3F2FD 0%, #BBDEFB 100%); border-radius: 15px; padding: 20px;">
+<tr>
+<td width="5%" align="center" style="color: #1976D2; font-weight: bold;">01</td>
+<td width="25%"><b style="color: #0D47A1;">Information Theory</b></td>
+<td style="color: #0D47A1;">
+Entropy, cross-entropy, mutual information, and KL divergence for measuring uncertainty and evaluating models.
+</td>
+</tr>
+<tr style="background: rgba(227, 242, 253, 0.2);">
+<td align="center" style="color: #1976D2; font-weight: bold;">02</td>
+<td><b style="color: #0D47A1;">Graph Theory</b></td>
+<td style="color: #0D47A1;">
+Basics of graphs, trees, adjacency matrices, and their applications in network analysis and graphical models.
+</td>
+</tr>
+<tr>
+<td align="center" style="color: #1976D2; font-weight: bold;">03</td>
+<td><b style="color: #0D47A1;">Tensor Algebra</b></td>
+<td style="color: #0D47A1;">
+Fundamentals of tensors, tensor operations, and their role in deep learning frameworks.
+</td>
+</tr>
+<tr style="background: rgba(227, 242, 253, 0.2);">
+<td align="center" style="color: #1976D2; font-weight: bold;">04</td>
+<td><b style="color: #0D47A1;">Differential Equations</b></td>
+<td style="color: #0D47A1;">
+Ordinary and partial differential equations relevant to modeling dynamic systems and neural network training dynamics.
+</td>
+</tr>
+</table>
+</details>
