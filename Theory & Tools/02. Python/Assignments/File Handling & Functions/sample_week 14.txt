@@ -1,0 +1,3 @@
+This is a sample text file. 
+Open this file to read its content. 
+Congratulations! You did the job.
