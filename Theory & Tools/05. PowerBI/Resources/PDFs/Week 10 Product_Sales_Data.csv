@@ -1,0 +1,2001 @@
+Product ID,Product Name,Order Date,Sales,Quantity,Category,Region,Cost,Profit
+107,Blender,15-10-2023,529,7,Electronics,East,299,230
+104,Microwave,15-10-2023,622,1,Electronics,West,163,459
+113,Blender,25-03-2023,507,4,Appliances,West,133,374
+111,Microwave,15-05-2023,414,7,Electronics,North,124,290
+108,Blender,15-10-2023,908,9,Appliances,South,509,399
+113,Blender,03-11-2023,400,5,Appliances,South,270,130
+105,Laptop,20-03-2023,1473,2,Electronics,West,42,1431
+107,Headphones,15-05-2023,302,7,Electronics,North,176,126
+110,Smartphone,15-10-2023,830,1,Appliances,North,124,706
+103,Blender,10-02-2023,852,7,Appliances,South,322,530
+107,Coffee Maker,12-07-2023,1061,6,Appliances,North,54,1007
+111,Blender,10-02-2023,508,7,Electronics,East,301,207
+111,Coffee Maker,01-10-2023,966,3,Electronics,East,534,432
+108,Headphones,20-06-2023,548,3,Electronics,South,195,353
+105,Coffee Maker,10-08-2023,999,7,Electronics,South,116,883
+104,Smartphone,15-01-2023,557,2,Electronics,North,520,37
+108,Smartphone,12-07-2023,1377,1,Appliances,North,170,1207
+108,Headphones,20-06-2023,550,9,Electronics,South,132,418
+103,Smartphone,15-05-2023,852,9,Appliances,East,255,597
+106,Laptop,15-05-2023,647,7,Appliances,East,323,324
+105,Blender,15-05-2023,215,7,Electronics,North,335,-120
+102,Blender,10-08-2023,1488,3,Electronics,East,283,1205
+108,Laptop,10-02-2023,511,2,Appliances,North,209,302
+112,Laptop,15-01-2023,969,7,Electronics,North,69,900
+114,Smartphone,03-11-2023,163,9,Electronics,North,549,-386
+106,Coffee Maker,15-10-2023,1041,1,Appliances,East,575,466
+102,Smartphone,15-05-2023,1429,4,Electronics,South,265,1164
+112,Microwave,05-09-2023,256,6,Electronics,South,492,-236
+105,Laptop,01-10-2023,1308,7,Appliances,East,257,1051
+101,Laptop,12-07-2023,1428,7,Electronics,South,512,916
+112,Laptop,20-03-2023,564,2,Electronics,North,459,105
+110,Coffee Maker,15-10-2023,1281,4,Appliances,South,51,1230
+106,Blender,05-09-2023,758,5,Appliances,East,372,386
+113,Laptop,15-01-2023,1198,1,Electronics,South,69,1129
+112,Blender,10-08-2023,187,1,Electronics,North,202,-15
+109,Coffee Maker,03-11-2023,388,3,Appliances,North,468,-80
+101,Blender,03-11-2023,586,3,Electronics,East,208,378
+111,Headphones,15-01-2023,117,8,Electronics,East,162,-45
+111,Smartphone,20-03-2023,432,9,Appliances,East,380,52
+110,Laptop,12-07-2023,68,1,Electronics,West,554,-486
+112,Laptop,20-12-2023,732,2,Electronics,West,569,163
+112,Microwave,20-03-2023,123,2,Appliances,North,535,-412
+114,Microwave,03-11-2023,622,4,Appliances,West,113,509
+114,Blender,25-03-2023,988,2,Electronics,West,493,495
+114,Laptop,12-07-2023,1349,7,Electronics,West,372,977
+103,Blender,15-01-2023,1121,9,Electronics,South,309,812
+112,Headphones,03-11-2023,260,7,Electronics,East,292,-32
+107,Coffee Maker,03-11-2023,904,6,Appliances,South,195,709
+104,Coffee Maker,15-05-2023,700,1,Electronics,South,322,378
+109,Microwave,15-01-2023,1043,9,Appliances,East,538,505
+103,Headphones,20-12-2023,744,5,Electronics,East,255,489
+105,Headphones,15-01-2023,589,5,Electronics,North,199,390
+103,Laptop,20-12-2023,1264,6,Electronics,North,477,787
+107,Blender,12-07-2023,1388,9,Appliances,North,531,857
+105,Coffee Maker,01-10-2023,950,8,Appliances,North,556,394
+109,Microwave,25-03-2023,829,8,Appliances,South,408,421
+107,Headphones,15-10-2023,1186,8,Appliances,South,230,956
+102,Smartphone,15-01-2023,219,1,Electronics,North,279,-60
+104,Headphones,05-09-2023,1087,1,Appliances,West,438,649
+109,Coffee Maker,20-06-2023,337,8,Electronics,North,154,183
+112,Blender,05-04-2023,238,5,Electronics,West,142,96
+114,Blender,05-04-2023,963,9,Appliances,East,166,797
+102,Microwave,15-01-2023,1228,2,Electronics,South,525,703
+110,Microwave,20-12-2023,743,9,Electronics,South,179,564
+109,Headphones,05-09-2023,937,8,Appliances,West,372,565
+110,Blender,01-10-2023,520,9,Electronics,North,350,170
+105,Coffee Maker,15-05-2023,1148,4,Electronics,South,561,587
+102,Laptop,20-12-2023,326,1,Appliances,West,318,8
+104,Laptop,10-08-2023,989,1,Electronics,East,518,471
+112,Coffee Maker,10-08-2023,1416,5,Appliances,East,521,895
+112,Laptop,12-07-2023,1498,2,Electronics,South,281,1217
+107,Smartphone,05-04-2023,620,8,Electronics,North,106,514
+112,Headphones,15-01-2023,906,5,Appliances,West,421,485
+113,Microwave,10-08-2023,1050,5,Electronics,South,441,609
+108,Smartphone,15-01-2023,1255,2,Electronics,East,202,1053
+103,Blender,12-07-2023,507,7,Appliances,North,230,277
+114,Coffee Maker,05-04-2023,967,8,Electronics,West,246,721
+101,Laptop,20-03-2023,882,1,Electronics,North,405,477
+104,Coffee Maker,01-10-2023,1137,2,Electronics,North,40,1097
+102,Coffee Maker,20-06-2023,888,4,Appliances,East,41,847
+108,Microwave,20-06-2023,1333,5,Electronics,North,464,869
+104,Headphones,10-08-2023,242,2,Electronics,West,402,-160
+102,Coffee Maker,20-06-2023,665,1,Electronics,North,302,363
+114,Headphones,03-11-2023,455,9,Electronics,North,538,-83
+106,Microwave,01-10-2023,992,1,Electronics,West,161,831
+106,Microwave,20-12-2023,770,4,Electronics,West,348,422
+110,Coffee Maker,20-03-2023,142,2,Electronics,East,197,-55
+104,Blender,01-10-2023,479,4,Appliances,East,426,53
+106,Blender,03-11-2023,703,8,Electronics,West,209,494
+113,Laptop,20-12-2023,1477,8,Appliances,South,87,1390
+102,Smartphone,03-11-2023,483,9,Electronics,South,509,-26
+110,Smartphone,15-01-2023,1185,5,Appliances,East,489,696
+112,Smartphone,12-07-2023,424,7,Electronics,North,90,334
+102,Headphones,15-10-2023,1132,3,Electronics,South,398,734
+110,Smartphone,20-03-2023,1116,4,Electronics,North,150,966
+114,Laptop,15-10-2023,256,9,Electronics,South,575,-319
+104,Laptop,12-07-2023,829,1,Electronics,West,46,783
+114,Microwave,12-07-2023,1369,2,Appliances,East,525,844
+108,Laptop,03-11-2023,1191,5,Electronics,North,526,665
+114,Laptop,05-04-2023,581,3,Appliances,North,534,47
+107,Headphones,03-11-2023,1295,2,Electronics,West,561,734
+112,Laptop,15-10-2023,215,1,Appliances,North,344,-129
+109,Laptop,03-11-2023,692,3,Appliances,South,98,594
+114,Laptop,15-01-2023,1229,1,Appliances,West,190,1039
+108,Headphones,03-11-2023,1257,1,Electronics,East,174,1083
+105,Smartphone,05-09-2023,139,1,Electronics,North,598,-459
+113,Laptop,20-06-2023,1167,8,Appliances,South,414,753
+102,Headphones,15-10-2023,62,3,Electronics,North,298,-236
+105,Headphones,05-09-2023,1022,1,Electronics,South,483,539
+108,Coffee Maker,05-04-2023,854,7,Electronics,South,547,307
+110,Blender,12-07-2023,994,3,Electronics,East,379,615
+109,Microwave,10-08-2023,791,8,Appliances,North,139,652
+112,Smartphone,01-10-2023,925,4,Appliances,East,512,413
+112,Laptop,20-12-2023,1223,4,Electronics,South,436,787
+112,Coffee Maker,20-06-2023,709,5,Electronics,South,80,629
+113,Smartphone,20-12-2023,1081,6,Appliances,East,432,649
+109,Blender,03-11-2023,1102,7,Electronics,East,592,510
+113,Microwave,20-06-2023,345,4,Appliances,North,505,-160
+113,Microwave,15-01-2023,1035,8,Electronics,South,116,919
+101,Blender,25-03-2023,975,6,Electronics,East,97,878
+109,Laptop,10-02-2023,689,1,Appliances,West,71,618
+107,Laptop,10-02-2023,389,1,Appliances,South,86,303
+109,Laptop,10-02-2023,677,9,Appliances,South,225,452
+108,Coffee Maker,25-03-2023,488,6,Electronics,North,91,397
+101,Laptop,20-12-2023,1217,8,Appliances,West,292,925
+112,Headphones,15-01-2023,991,7,Electronics,North,141,850
+108,Microwave,25-03-2023,879,6,Electronics,West,207,672
+108,Headphones,10-02-2023,568,4,Electronics,North,55,513
+111,Headphones,05-04-2023,1025,7,Electronics,West,439,586
+103,Coffee Maker,20-03-2023,1118,9,Electronics,East,560,558
+101,Headphones,15-10-2023,1004,7,Appliances,West,346,658
+108,Blender,12-07-2023,1312,1,Electronics,East,561,751
+103,Smartphone,25-03-2023,1001,9,Electronics,East,135,866
+103,Laptop,15-01-2023,993,4,Electronics,North,493,500
+101,Coffee Maker,15-01-2023,204,3,Appliances,North,275,-71
+111,Blender,15-10-2023,1254,4,Appliances,South,110,1144
+105,Coffee Maker,05-09-2023,1288,4,Electronics,North,425,863
+110,Microwave,20-03-2023,137,2,Appliances,East,551,-414
+107,Microwave,10-08-2023,1329,1,Appliances,East,293,1036
+110,Blender,20-06-2023,1146,1,Electronics,North,303,843
+109,Blender,10-02-2023,980,8,Electronics,East,201,779
+112,Laptop,03-11-2023,228,2,Electronics,East,294,-66
+107,Smartphone,10-08-2023,261,5,Appliances,North,55,206
+109,Headphones,05-09-2023,1307,4,Electronics,East,498,809
+108,Coffee Maker,10-02-2023,514,8,Appliances,South,505,9
+112,Smartphone,20-03-2023,1296,2,Appliances,East,385,911
+102,Laptop,01-10-2023,680,9,Electronics,North,55,625
+101,Laptop,03-11-2023,874,7,Appliances,South,63,811
+107,Laptop,05-09-2023,1337,7,Electronics,South,293,1044
+107,Coffee Maker,20-12-2023,1280,1,Electronics,East,167,1113
+114,Laptop,10-02-2023,656,2,Electronics,West,595,61
+108,Coffee Maker,20-03-2023,934,4,Electronics,North,491,443
+105,Microwave,15-05-2023,415,4,Appliances,South,197,218
+103,Smartphone,10-08-2023,325,3,Appliances,East,110,215
+112,Microwave,10-08-2023,429,7,Electronics,East,436,-7
+108,Blender,20-06-2023,1382,8,Appliances,South,75,1307
+106,Blender,15-10-2023,1341,2,Electronics,North,82,1259
+111,Blender,20-03-2023,994,4,Electronics,West,505,489
+103,Laptop,25-03-2023,1137,3,Appliances,North,45,1092
+101,Smartphone,15-05-2023,859,2,Electronics,East,389,470
+103,Laptop,01-10-2023,1423,6,Electronics,East,516,907
+105,Coffee Maker,05-04-2023,974,4,Appliances,North,531,443
+114,Coffee Maker,10-02-2023,543,6,Electronics,South,170,373
+103,Blender,03-11-2023,1171,2,Electronics,West,476,695
+101,Coffee Maker,15-05-2023,1144,4,Electronics,West,319,825
+105,Laptop,20-03-2023,413,6,Electronics,South,238,175
+110,Laptop,20-12-2023,619,5,Appliances,South,504,115
+107,Headphones,12-07-2023,812,3,Electronics,North,442,370
+114,Microwave,10-02-2023,325,8,Appliances,East,456,-131
+107,Laptop,15-01-2023,99,7,Appliances,East,400,-301
+111,Headphones,10-08-2023,1431,3,Electronics,South,319,1112
+109,Blender,20-12-2023,777,6,Electronics,North,461,316
+110,Coffee Maker,15-10-2023,955,4,Appliances,West,297,658
+110,Laptop,20-03-2023,977,5,Electronics,North,180,797
+112,Coffee Maker,01-10-2023,613,5,Electronics,South,284,329
+113,Smartphone,15-01-2023,832,7,Appliances,South,382,450
+103,Microwave,20-06-2023,534,5,Electronics,South,406,128
+107,Headphones,03-11-2023,1157,3,Electronics,East,387,770
+101,Microwave,05-09-2023,633,5,Appliances,East,399,234
+104,Laptop,05-04-2023,1369,7,Electronics,North,256,1113
+113,Smartphone,05-04-2023,285,5,Appliances,West,332,-47
+104,Microwave,20-12-2023,105,5,Appliances,West,418,-313
+114,Coffee Maker,15-01-2023,409,9,Electronics,North,406,3
+105,Coffee Maker,10-08-2023,159,3,Appliances,East,147,12
+107,Laptop,20-06-2023,241,6,Electronics,West,34,207
+107,Blender,12-07-2023,953,1,Appliances,West,473,480
+113,Blender,10-08-2023,1166,5,Electronics,East,381,785
+111,Smartphone,15-05-2023,911,8,Appliances,East,562,349
+113,Laptop,15-10-2023,617,5,Appliances,East,153,464
+104,Coffee Maker,05-04-2023,1133,9,Electronics,West,306,827
+113,Headphones,15-05-2023,699,6,Electronics,North,423,276
+107,Smartphone,01-10-2023,88,8,Appliances,South,389,-301
+111,Microwave,10-02-2023,1122,8,Electronics,East,498,624
+103,Coffee Maker,25-03-2023,1493,3,Electronics,West,86,1407
+106,Blender,20-03-2023,686,7,Appliances,South,280,406
+112,Microwave,03-11-2023,1086,7,Appliances,South,179,907
+102,Blender,20-06-2023,85,6,Electronics,North,481,-396
+110,Smartphone,10-08-2023,150,7,Appliances,West,191,-41
+113,Microwave,05-04-2023,1159,2,Appliances,South,149,1010
+114,Headphones,15-05-2023,1296,9,Appliances,North,380,916
+109,Coffee Maker,05-09-2023,1411,1,Appliances,East,128,1283
+105,Smartphone,20-12-2023,215,1,Electronics,East,196,19
+106,Coffee Maker,15-10-2023,432,3,Appliances,North,543,-111
+112,Coffee Maker,15-10-2023,1449,3,Appliances,East,430,1019
+112,Coffee Maker,10-02-2023,839,1,Appliances,West,394,445
+112,Coffee Maker,20-03-2023,80,7,Appliances,East,355,-275
+112,Microwave,20-03-2023,1448,4,Electronics,West,276,1172
+104,Laptop,15-10-2023,60,2,Appliances,North,463,-403
+114,Coffee Maker,15-10-2023,1375,5,Appliances,West,122,1253
+114,Microwave,10-08-2023,145,6,Electronics,East,297,-152
+111,Smartphone,20-06-2023,1263,9,Electronics,East,350,913
+110,Smartphone,12-07-2023,502,4,Electronics,East,91,411
+107,Coffee Maker,01-10-2023,241,2,Appliances,South,329,-88
+112,Laptop,05-09-2023,535,5,Electronics,East,432,103
+109,Coffee Maker,01-10-2023,1339,3,Appliances,North,596,743
+107,Microwave,10-08-2023,1497,2,Appliances,West,332,1165
+114,Laptop,15-05-2023,1201,1,Electronics,West,282,919
+101,Laptop,25-03-2023,287,2,Electronics,South,507,-220
+101,Blender,15-10-2023,1428,6,Appliances,North,398,1030
+109,Blender,15-01-2023,1185,8,Electronics,East,189,996
+111,Headphones,12-07-2023,1416,3,Appliances,South,195,1221
+114,Smartphone,20-06-2023,1218,9,Electronics,South,234,984
+109,Smartphone,10-02-2023,1138,9,Electronics,East,296,842
+104,Laptop,12-07-2023,1320,2,Appliances,North,167,1153
+113,Blender,15-10-2023,784,8,Electronics,East,397,387
+109,Laptop,05-04-2023,1040,5,Electronics,North,472,568
+103,Smartphone,20-06-2023,874,4,Electronics,North,596,278
+107,Blender,25-03-2023,155,5,Electronics,South,46,109
+106,Headphones,05-04-2023,230,4,Appliances,South,97,133
+108,Coffee Maker,12-07-2023,233,8,Electronics,South,162,71
+111,Headphones,15-01-2023,275,4,Appliances,West,459,-184
+109,Coffee Maker,15-01-2023,826,6,Appliances,North,337,489
+114,Laptop,25-03-2023,839,2,Appliances,East,203,636
+105,Laptop,20-03-2023,1162,5,Electronics,South,441,721
+101,Blender,03-11-2023,737,6,Appliances,West,126,611
+103,Coffee Maker,05-09-2023,579,5,Electronics,South,183,396
+110,Laptop,15-10-2023,1444,2,Electronics,North,271,1173
+112,Microwave,10-02-2023,1021,7,Electronics,East,333,688
+108,Laptop,15-10-2023,985,4,Electronics,North,314,671
+111,Coffee Maker,20-03-2023,1472,8,Electronics,West,56,1416
+106,Smartphone,01-10-2023,155,7,Appliances,North,431,-276
+108,Laptop,01-10-2023,1344,7,Appliances,West,389,955
+109,Laptop,20-12-2023,880,9,Appliances,South,89,791
+104,Coffee Maker,01-10-2023,728,1,Appliances,East,231,497
+101,Smartphone,15-01-2023,898,6,Appliances,North,399,499
+114,Coffee Maker,15-01-2023,1105,6,Appliances,South,562,543
+101,Laptop,15-05-2023,442,6,Appliances,South,181,261
+110,Microwave,05-04-2023,89,6,Electronics,South,131,-42
+104,Coffee Maker,12-07-2023,709,7,Electronics,South,475,234
+112,Coffee Maker,10-02-2023,1291,6,Electronics,North,258,1033
+114,Laptop,25-03-2023,1030,1,Appliances,West,154,876
+107,Laptop,12-07-2023,1155,3,Appliances,North,265,890
+102,Microwave,15-10-2023,894,2,Appliances,South,191,703
+103,Smartphone,15-05-2023,250,6,Appliances,North,583,-333
+101,Laptop,15-01-2023,496,8,Appliances,West,382,114
+105,Headphones,25-03-2023,1111,3,Appliances,North,97,1014
+101,Smartphone,15-01-2023,1284,8,Appliances,South,202,1082
+108,Headphones,03-11-2023,493,8,Electronics,South,588,-95
+101,Microwave,10-02-2023,1400,5,Electronics,West,290,1110
+111,Laptop,05-04-2023,810,8,Appliances,South,246,564
+101,Headphones,20-12-2023,276,6,Appliances,West,153,123
+102,Laptop,12-07-2023,97,5,Appliances,East,191,-94
+102,Laptop,12-07-2023,1091,9,Electronics,South,230,861
+112,Coffee Maker,01-10-2023,961,7,Appliances,South,483,478
+106,Blender,20-03-2023,236,8,Appliances,North,431,-195
+107,Coffee Maker,01-10-2023,394,1,Appliances,South,491,-97
+105,Laptop,03-11-2023,273,2,Electronics,North,304,-31
+101,Blender,25-03-2023,879,8,Appliances,North,235,644
+101,Smartphone,05-09-2023,537,9,Electronics,North,69,468
+103,Headphones,01-10-2023,926,4,Appliances,North,302,624
+114,Laptop,20-12-2023,898,9,Electronics,East,122,776
+102,Microwave,15-05-2023,1302,4,Appliances,South,71,1231
+105,Headphones,01-10-2023,1463,9,Appliances,North,494,969
+112,Laptop,01-10-2023,1028,7,Appliances,South,408,620
+110,Microwave,05-09-2023,1066,2,Electronics,North,136,930
+106,Headphones,20-03-2023,237,9,Electronics,West,357,-120
+107,Coffee Maker,10-02-2023,319,4,Appliances,East,94,225
+104,Headphones,15-05-2023,359,8,Appliances,North,394,-35
+107,Headphones,01-10-2023,1205,7,Electronics,South,513,692
+111,Headphones,03-11-2023,1145,7,Appliances,West,53,1092
+108,Headphones,05-04-2023,894,8,Electronics,East,569,325
+111,Microwave,20-12-2023,1260,1,Appliances,West,91,1169
+101,Microwave,05-09-2023,535,5,Appliances,South,520,15
+106,Laptop,05-04-2023,1264,2,Appliances,South,302,962
+108,Smartphone,05-09-2023,1495,2,Electronics,North,258,1237
+105,Laptop,03-11-2023,169,1,Appliances,West,49,120
+104,Blender,05-04-2023,269,5,Electronics,South,32,237
+102,Coffee Maker,05-09-2023,102,2,Electronics,North,450,-348
+106,Laptop,15-10-2023,1485,4,Appliances,East,336,1149
+106,Laptop,05-04-2023,1310,3,Electronics,South,461,849
+111,Coffee Maker,20-03-2023,807,3,Electronics,North,165,642
+101,Laptop,20-06-2023,787,2,Electronics,West,544,243
+109,Coffee Maker,15-05-2023,769,6,Appliances,North,222,547
+112,Microwave,25-03-2023,455,2,Appliances,West,444,11
+111,Coffee Maker,10-02-2023,657,8,Electronics,East,147,510
+106,Headphones,15-10-2023,1070,8,Appliances,West,238,832
+113,Microwave,10-08-2023,471,5,Electronics,North,63,408
+103,Smartphone,15-01-2023,761,7,Appliances,South,347,414
+104,Smartphone,03-11-2023,296,4,Appliances,North,149,147
+112,Headphones,03-11-2023,121,1,Electronics,West,554,-433
+111,Microwave,01-10-2023,234,2,Electronics,West,118,116
+104,Coffee Maker,20-12-2023,55,4,Electronics,East,541,-486
+103,Smartphone,25-03-2023,1279,1,Appliances,North,76,1203
+110,Coffee Maker,15-01-2023,955,8,Appliances,South,551,404
+103,Laptop,03-11-2023,436,9,Electronics,South,313,123
+103,Microwave,15-05-2023,748,4,Electronics,North,406,342
+104,Laptop,25-03-2023,1149,3,Electronics,North,163,986
+107,Smartphone,05-04-2023,1250,2,Appliances,North,277,973
+104,Smartphone,05-04-2023,876,5,Electronics,East,347,529
+109,Laptop,10-08-2023,398,3,Electronics,West,465,-67
+101,Headphones,15-01-2023,1328,7,Appliances,South,205,1123
+108,Laptop,03-11-2023,357,6,Appliances,East,380,-23
+107,Headphones,10-02-2023,1418,1,Electronics,East,172,1246
+102,Coffee Maker,03-11-2023,1200,8,Electronics,North,427,773
+108,Coffee Maker,15-05-2023,336,2,Appliances,North,398,-62
+101,Microwave,05-04-2023,815,5,Appliances,North,530,285
+111,Headphones,01-10-2023,774,9,Electronics,North,399,375
+112,Coffee Maker,20-06-2023,811,8,Electronics,North,411,400
+109,Laptop,20-03-2023,432,2,Appliances,West,115,317
+109,Headphones,20-03-2023,1479,9,Appliances,West,489,990
+102,Laptop,05-09-2023,437,5,Electronics,North,354,83
+107,Microwave,10-02-2023,574,6,Appliances,East,551,23
+114,Microwave,03-11-2023,688,3,Appliances,West,518,170
+110,Microwave,20-03-2023,987,3,Electronics,East,426,561
+103,Blender,05-09-2023,325,8,Electronics,East,384,-59
+107,Coffee Maker,15-01-2023,549,2,Appliances,South,317,232
+112,Blender,05-04-2023,766,2,Appliances,South,488,278
+110,Coffee Maker,20-12-2023,386,5,Electronics,North,565,-179
+109,Headphones,15-10-2023,981,6,Electronics,East,320,661
+104,Coffee Maker,05-04-2023,530,2,Electronics,West,197,333
+112,Microwave,15-10-2023,960,5,Electronics,South,457,503
+101,Coffee Maker,01-10-2023,1346,7,Appliances,South,519,827
+102,Smartphone,20-06-2023,1131,8,Electronics,East,384,747
+101,Blender,25-03-2023,1401,7,Appliances,West,225,1176
+114,Smartphone,20-03-2023,158,8,Electronics,East,574,-416
+112,Blender,15-01-2023,1352,9,Appliances,South,40,1312
+105,Microwave,15-10-2023,377,5,Appliances,East,285,92
+105,Blender,12-07-2023,364,5,Appliances,East,425,-61
+111,Microwave,03-11-2023,1184,4,Electronics,West,438,746
+107,Coffee Maker,20-03-2023,748,9,Electronics,South,391,357
+109,Microwave,03-11-2023,830,5,Electronics,East,288,542
+109,Headphones,10-02-2023,1302,2,Electronics,South,32,1270
+103,Laptop,01-10-2023,205,8,Appliances,East,113,92
+103,Headphones,25-03-2023,1345,7,Appliances,East,185,1160
+103,Coffee Maker,20-03-2023,936,8,Electronics,South,205,731
+104,Laptop,03-11-2023,1075,3,Appliances,West,501,574
+108,Blender,15-01-2023,807,4,Electronics,North,453,354
+106,Smartphone,20-03-2023,771,5,Appliances,West,163,608
+108,Coffee Maker,15-10-2023,962,6,Appliances,West,409,553
+101,Laptop,10-02-2023,1359,1,Electronics,South,306,1053
+108,Coffee Maker,12-07-2023,920,4,Electronics,West,265,655
+104,Microwave,15-05-2023,62,5,Appliances,North,42,20
+111,Headphones,10-08-2023,657,7,Electronics,West,371,286
+101,Coffee Maker,12-07-2023,547,5,Electronics,North,64,483
+108,Coffee Maker,05-09-2023,287,1,Appliances,South,588,-301
+104,Blender,20-03-2023,1167,7,Appliances,North,243,924
+106,Blender,05-04-2023,1411,8,Electronics,East,441,970
+108,Laptop,20-06-2023,830,7,Electronics,East,434,396
+104,Laptop,05-04-2023,1244,4,Appliances,North,523,721
+114,Microwave,12-07-2023,655,8,Electronics,East,188,467
+103,Microwave,15-10-2023,710,5,Appliances,South,139,571
+114,Laptop,05-04-2023,898,9,Electronics,East,578,320
+109,Coffee Maker,15-01-2023,985,5,Electronics,North,555,430
+103,Blender,05-04-2023,677,1,Electronics,South,376,301
+109,Headphones,25-03-2023,192,9,Appliances,East,308,-116
+113,Blender,15-05-2023,1274,5,Electronics,South,508,766
+102,Smartphone,20-03-2023,1253,6,Appliances,North,140,1113
+114,Smartphone,01-10-2023,763,4,Electronics,East,460,303
+102,Blender,05-04-2023,1437,6,Electronics,South,571,866
+102,Smartphone,10-02-2023,528,8,Electronics,South,144,384
+106,Microwave,01-10-2023,614,3,Electronics,East,119,495
+103,Microwave,15-05-2023,520,5,Electronics,South,241,279
+113,Coffee Maker,03-11-2023,433,2,Appliances,South,579,-146
+109,Smartphone,15-10-2023,975,2,Appliances,North,568,407
+104,Microwave,15-05-2023,466,7,Appliances,North,389,77
+101,Smartphone,05-04-2023,357,6,Electronics,North,515,-158
+104,Headphones,15-05-2023,698,4,Appliances,North,401,297
+101,Laptop,01-10-2023,1440,5,Appliances,North,244,1196
+114,Coffee Maker,20-06-2023,1074,1,Electronics,North,44,1030
+105,Coffee Maker,15-10-2023,1117,7,Electronics,East,288,829
+104,Smartphone,05-04-2023,788,8,Electronics,North,492,296
+108,Headphones,15-01-2023,1171,9,Electronics,East,149,1022
+108,Blender,12-07-2023,1338,8,Appliances,North,157,1181
+107,Headphones,25-03-2023,189,5,Electronics,North,552,-363
+103,Smartphone,10-08-2023,1310,3,Electronics,South,354,956
+101,Headphones,20-12-2023,1023,9,Electronics,South,349,674
+101,Headphones,05-09-2023,1066,6,Electronics,South,535,531
+112,Smartphone,15-10-2023,1002,5,Appliances,West,555,447
+111,Laptop,15-05-2023,953,3,Electronics,West,79,874
+103,Microwave,15-01-2023,121,6,Electronics,East,98,23
+106,Headphones,20-03-2023,1263,3,Appliances,North,420,843
+107,Coffee Maker,20-03-2023,1341,6,Electronics,North,412,929
+106,Coffee Maker,05-09-2023,1394,4,Appliances,South,45,1349
+114,Headphones,15-10-2023,156,2,Electronics,North,468,-312
+114,Laptop,15-10-2023,1305,8,Electronics,East,597,708
+106,Blender,25-03-2023,1115,4,Appliances,West,161,954
+106,Microwave,15-05-2023,932,9,Appliances,North,589,343
+113,Coffee Maker,20-06-2023,188,7,Appliances,North,277,-89
+103,Blender,05-09-2023,664,2,Electronics,East,302,362
+106,Headphones,25-03-2023,912,4,Electronics,East,378,534
+108,Smartphone,15-05-2023,322,5,Appliances,North,513,-191
+111,Blender,01-10-2023,465,3,Appliances,West,579,-114
+111,Laptop,15-01-2023,555,9,Electronics,South,386,169
+102,Coffee Maker,20-12-2023,782,5,Appliances,East,347,435
+105,Headphones,12-07-2023,473,2,Electronics,East,77,396
+114,Smartphone,20-06-2023,1480,3,Electronics,North,39,1441
+101,Smartphone,01-10-2023,439,9,Electronics,East,262,177
+112,Coffee Maker,01-10-2023,391,7,Appliances,East,65,326
+101,Microwave,10-08-2023,995,2,Electronics,South,442,553
+105,Headphones,20-03-2023,663,9,Electronics,South,491,172
+112,Microwave,10-02-2023,542,4,Electronics,West,33,509
+113,Coffee Maker,15-01-2023,241,9,Appliances,South,73,168
+103,Coffee Maker,20-03-2023,548,2,Electronics,North,597,-49
+104,Headphones,05-04-2023,871,4,Appliances,East,583,288
+103,Microwave,20-12-2023,1306,5,Electronics,West,284,1022
+101,Blender,01-10-2023,276,2,Electronics,North,143,133
+101,Blender,10-02-2023,1444,1,Electronics,East,426,1018
+112,Laptop,15-10-2023,188,7,Electronics,East,203,-15
+112,Blender,20-03-2023,905,1,Appliances,East,284,621
+114,Coffee Maker,25-03-2023,866,8,Appliances,South,495,371
+113,Coffee Maker,20-06-2023,1222,3,Appliances,North,306,916
+114,Laptop,03-11-2023,1188,6,Appliances,North,493,695
+105,Microwave,20-03-2023,1136,7,Electronics,East,531,605
+106,Blender,10-08-2023,153,1,Appliances,West,470,-317
+103,Coffee Maker,12-07-2023,920,6,Electronics,North,98,822
+112,Smartphone,25-03-2023,717,7,Appliances,South,538,179
+109,Microwave,03-11-2023,322,6,Appliances,West,355,-33
+105,Coffee Maker,15-01-2023,1079,4,Electronics,West,96,983
+108,Smartphone,15-01-2023,1220,1,Appliances,West,333,887
+113,Headphones,15-01-2023,233,9,Electronics,North,513,-280
+101,Microwave,15-01-2023,1101,4,Electronics,East,577,524
+114,Laptop,12-07-2023,1192,7,Appliances,West,446,746
+105,Laptop,20-03-2023,342,7,Electronics,South,188,154
+103,Laptop,15-05-2023,1444,2,Appliances,East,178,1266
+112,Coffee Maker,20-03-2023,1317,1,Appliances,North,56,1261
+101,Coffee Maker,01-10-2023,1291,8,Appliances,East,277,1014
+104,Microwave,05-04-2023,226,8,Electronics,West,130,96
+113,Headphones,03-11-2023,1372,7,Electronics,North,125,1247
+105,Coffee Maker,20-12-2023,107,8,Appliances,North,413,-306
+107,Blender,03-11-2023,1342,3,Electronics,West,311,1031
+101,Blender,20-06-2023,357,2,Appliances,South,351,6
+103,Laptop,10-02-2023,1361,7,Appliances,West,425,936
+102,Smartphone,15-05-2023,1026,8,Electronics,East,307,719
+109,Microwave,03-11-2023,1178,1,Electronics,South,558,620
+110,Smartphone,15-05-2023,1301,9,Appliances,West,292,1009
+106,Smartphone,01-10-2023,1320,4,Electronics,East,322,998
+110,Blender,20-03-2023,749,4,Electronics,East,323,426
+103,Microwave,15-05-2023,132,3,Electronics,East,424,-292
+108,Laptop,05-09-2023,1259,6,Appliances,East,542,717
+114,Headphones,05-09-2023,301,1,Appliances,West,209,92
+108,Coffee Maker,20-12-2023,1428,6,Electronics,North,264,1164
+102,Laptop,05-04-2023,845,2,Electronics,East,366,479
+106,Coffee Maker,15-10-2023,946,9,Appliances,East,37,909
+107,Headphones,10-02-2023,259,2,Electronics,South,472,-213
+102,Blender,10-08-2023,865,7,Appliances,South,568,297
+111,Headphones,12-07-2023,658,1,Appliances,West,120,538
+110,Microwave,20-03-2023,496,7,Appliances,East,301,195
+102,Coffee Maker,12-07-2023,509,5,Electronics,North,34,475
+110,Coffee Maker,20-12-2023,1017,8,Electronics,North,248,769
+101,Laptop,10-08-2023,521,4,Appliances,West,147,374
+108,Blender,20-12-2023,419,7,Appliances,South,144,275
+101,Smartphone,20-03-2023,949,6,Appliances,East,292,657
+109,Smartphone,20-03-2023,972,5,Appliances,East,335,637
+111,Laptop,10-02-2023,186,4,Appliances,North,451,-265
+106,Microwave,12-07-2023,416,7,Appliances,West,236,180
+107,Laptop,05-09-2023,961,5,Appliances,North,332,629
+113,Coffee Maker,15-01-2023,233,5,Electronics,North,141,92
+110,Laptop,12-07-2023,1360,1,Electronics,West,446,914
+107,Smartphone,20-06-2023,521,2,Electronics,South,584,-63
+110,Microwave,20-12-2023,1448,5,Electronics,East,314,1134
+103,Coffee Maker,20-06-2023,703,3,Appliances,South,214,489
+102,Laptop,20-03-2023,798,2,Electronics,West,250,548
+109,Blender,15-01-2023,586,4,Electronics,East,473,113
+108,Blender,25-03-2023,851,4,Electronics,South,146,705
+113,Microwave,10-08-2023,1323,4,Electronics,East,99,1224
+112,Blender,05-04-2023,969,4,Electronics,North,99,870
+110,Laptop,15-01-2023,559,3,Appliances,North,456,103
+107,Laptop,05-04-2023,679,7,Appliances,North,597,82
+109,Smartphone,03-11-2023,1051,9,Appliances,North,472,579
+104,Microwave,12-07-2023,1146,5,Electronics,East,166,980
+113,Smartphone,12-07-2023,1355,4,Appliances,South,533,822
+104,Microwave,05-04-2023,965,2,Electronics,East,160,805
+101,Laptop,15-10-2023,1433,2,Appliances,West,247,1186
+108,Microwave,10-08-2023,1083,5,Electronics,East,200,883
+114,Laptop,15-01-2023,1284,7,Appliances,East,504,780
+114,Blender,25-03-2023,201,9,Appliances,South,158,43
+112,Smartphone,20-03-2023,1078,7,Electronics,West,86,992
+103,Headphones,10-02-2023,1268,5,Electronics,South,210,1058
+107,Coffee Maker,12-07-2023,1356,6,Appliances,North,275,1081
+112,Headphones,20-06-2023,513,3,Electronics,North,173,340
+102,Coffee Maker,10-08-2023,1186,5,Appliances,East,80,1106
+102,Blender,10-02-2023,320,8,Appliances,East,397,-77
+107,Smartphone,20-12-2023,1236,1,Electronics,East,488,748
+106,Headphones,20-12-2023,509,1,Appliances,South,247,262
+103,Blender,25-03-2023,154,7,Electronics,West,596,-442
+109,Laptop,20-12-2023,1355,5,Electronics,North,286,1069
+110,Microwave,15-05-2023,211,5,Appliances,East,185,26
+114,Coffee Maker,01-10-2023,400,1,Appliances,North,594,-194
+113,Laptop,20-03-2023,483,9,Appliances,South,471,12
+106,Blender,12-07-2023,901,1,Appliances,North,54,847
+110,Blender,20-03-2023,189,5,Electronics,West,565,-376
+110,Laptop,20-12-2023,1205,9,Electronics,West,89,1116
+106,Blender,15-10-2023,136,4,Appliances,South,496,-360
+101,Laptop,03-11-2023,232,8,Electronics,East,463,-231
+104,Laptop,03-11-2023,417,6,Electronics,North,95,322
+110,Coffee Maker,10-02-2023,178,3,Electronics,South,594,-416
+106,Coffee Maker,03-11-2023,1319,4,Electronics,North,135,1184
+106,Microwave,03-11-2023,719,2,Electronics,North,125,594
+111,Headphones,20-03-2023,1451,1,Electronics,West,580,871
+112,Smartphone,01-10-2023,198,8,Electronics,North,197,1
+105,Blender,15-05-2023,1034,1,Electronics,West,71,963
+101,Headphones,10-02-2023,901,1,Appliances,North,133,768
+108,Smartphone,12-07-2023,677,4,Appliances,South,233,444
+105,Laptop,15-01-2023,495,6,Appliances,East,549,-54
+112,Laptop,20-06-2023,933,9,Appliances,West,311,622
+112,Coffee Maker,10-02-2023,343,1,Electronics,West,72,271
+112,Headphones,05-09-2023,1216,7,Appliances,North,139,1077
+105,Coffee Maker,15-10-2023,299,5,Electronics,North,239,60
+107,Headphones,15-05-2023,927,8,Appliances,East,78,849
+104,Blender,15-10-2023,997,7,Appliances,West,144,853
+106,Coffee Maker,10-02-2023,1024,4,Appliances,South,184,840
+113,Microwave,10-02-2023,1375,4,Electronics,South,532,843
+104,Smartphone,05-09-2023,1098,6,Electronics,West,100,998
+114,Laptop,03-11-2023,838,6,Electronics,West,548,290
+103,Headphones,12-07-2023,1033,9,Electronics,West,365,668
+107,Microwave,15-10-2023,938,5,Appliances,East,96,842
+108,Microwave,10-02-2023,939,8,Appliances,South,522,417
+104,Laptop,20-06-2023,119,5,Appliances,North,242,-123
+113,Smartphone,20-03-2023,674,2,Appliances,North,210,464
+102,Microwave,12-07-2023,924,6,Appliances,West,277,647
+112,Coffee Maker,20-06-2023,1185,9,Appliances,North,243,942
+110,Blender,20-12-2023,1437,3,Appliances,East,388,1049
+114,Smartphone,12-07-2023,1376,1,Appliances,South,278,1098
+103,Headphones,20-12-2023,520,1,Electronics,South,545,-25
+101,Headphones,20-06-2023,140,3,Electronics,North,117,23
+108,Microwave,01-10-2023,579,5,Appliances,North,205,374
+103,Microwave,15-05-2023,710,3,Appliances,West,455,255
+112,Smartphone,03-11-2023,788,9,Appliances,East,110,678
+110,Headphones,20-06-2023,775,8,Electronics,South,167,608
+107,Blender,05-04-2023,921,3,Electronics,East,462,459
+110,Laptop,20-06-2023,241,9,Electronics,South,499,-258
+105,Microwave,15-01-2023,1315,6,Electronics,East,379,936
+110,Smartphone,15-01-2023,187,7,Electronics,North,155,32
+105,Blender,10-08-2023,394,4,Appliances,East,338,56
+114,Laptop,20-12-2023,1253,4,Electronics,East,259,994
+107,Blender,05-04-2023,1058,2,Electronics,North,489,569
+109,Laptop,03-11-2023,552,5,Appliances,South,374,178
+112,Headphones,05-04-2023,252,8,Appliances,North,339,-87
+105,Laptop,20-03-2023,622,7,Electronics,East,49,573
+101,Microwave,05-04-2023,241,7,Appliances,East,590,-349
+110,Microwave,20-03-2023,54,6,Electronics,East,570,-516
+110,Headphones,10-08-2023,1310,3,Electronics,West,589,721
+101,Laptop,10-08-2023,360,5,Appliances,East,506,-146
+102,Headphones,15-05-2023,598,1,Electronics,East,298,300
+114,Coffee Maker,15-01-2023,105,7,Electronics,North,32,73
+106,Headphones,20-06-2023,492,9,Appliances,North,45,447
+109,Headphones,20-06-2023,1310,1,Appliances,South,387,923
+108,Laptop,20-12-2023,919,2,Appliances,South,162,757
+113,Headphones,05-09-2023,1270,3,Electronics,North,341,929
+105,Smartphone,05-09-2023,634,3,Appliances,West,511,123
+101,Smartphone,25-03-2023,801,8,Appliances,North,573,228
+113,Laptop,12-07-2023,409,7,Appliances,East,334,75
+107,Microwave,15-05-2023,868,6,Electronics,West,298,570
+105,Laptop,25-03-2023,79,4,Electronics,North,443,-364
+106,Smartphone,25-03-2023,157,9,Electronics,West,54,103
+113,Coffee Maker,10-02-2023,893,1,Appliances,South,345,548
+107,Coffee Maker,20-12-2023,766,2,Appliances,North,305,461
+103,Smartphone,10-02-2023,940,4,Appliances,South,418,522
+112,Laptop,15-10-2023,1009,3,Electronics,East,473,536
+110,Laptop,20-12-2023,942,1,Appliances,East,456,486
+103,Coffee Maker,25-03-2023,781,5,Electronics,West,86,695
+105,Coffee Maker,05-04-2023,655,7,Appliances,East,595,60
+106,Blender,12-07-2023,506,2,Electronics,East,397,109
+109,Blender,15-05-2023,664,5,Appliances,North,371,293
+113,Coffee Maker,20-12-2023,747,6,Appliances,West,333,414
+114,Headphones,25-03-2023,723,7,Electronics,East,403,320
+112,Coffee Maker,03-11-2023,1320,1,Appliances,North,141,1179
+105,Microwave,01-10-2023,592,7,Appliances,East,35,557
+101,Headphones,20-06-2023,906,4,Electronics,East,308,598
+114,Headphones,12-07-2023,946,8,Electronics,South,411,535
+114,Laptop,10-02-2023,327,4,Appliances,West,42,285
+114,Coffee Maker,15-10-2023,601,6,Electronics,North,332,269
+104,Laptop,20-06-2023,160,9,Appliances,South,585,-425
+105,Coffee Maker,20-12-2023,434,5,Electronics,West,189,245
+112,Coffee Maker,10-02-2023,810,4,Appliances,East,183,627
+110,Blender,10-02-2023,1264,8,Electronics,North,210,1054
+110,Coffee Maker,12-07-2023,743,9,Appliances,West,555,188
+105,Blender,10-02-2023,1499,4,Appliances,East,209,1290
+107,Blender,01-10-2023,454,3,Electronics,North,406,48
+104,Coffee Maker,10-08-2023,1408,8,Electronics,West,197,1211
+101,Laptop,15-10-2023,1282,5,Electronics,South,243,1039
+114,Smartphone,15-01-2023,71,2,Electronics,East,179,-108
+114,Headphones,10-08-2023,727,9,Appliances,East,45,682
+105,Blender,15-01-2023,660,3,Appliances,West,120,540
+107,Laptop,05-09-2023,1281,2,Appliances,East,149,1132
+110,Coffee Maker,03-11-2023,57,1,Appliances,North,282,-225
+110,Smartphone,05-09-2023,751,8,Electronics,West,89,662
+106,Laptop,10-02-2023,578,3,Electronics,South,295,283
+105,Coffee Maker,15-05-2023,651,7,Electronics,West,438,213
+104,Laptop,15-05-2023,706,1,Electronics,West,60,646
+102,Headphones,15-01-2023,215,1,Electronics,South,50,165
+104,Headphones,20-06-2023,898,9,Electronics,East,318,580
+110,Blender,12-07-2023,545,8,Appliances,South,572,-27
+110,Coffee Maker,10-02-2023,639,3,Appliances,North,527,112
+103,Microwave,12-07-2023,478,6,Appliances,East,503,-25
+110,Coffee Maker,10-08-2023,823,3,Electronics,West,434,389
+101,Blender,15-05-2023,212,4,Appliances,East,577,-365
+108,Laptop,05-04-2023,415,1,Electronics,East,161,254
+105,Laptop,15-10-2023,1312,5,Appliances,North,353,959
+113,Smartphone,10-08-2023,121,1,Electronics,East,161,-40
+104,Coffee Maker,03-11-2023,704,1,Appliances,East,550,154
+108,Laptop,15-10-2023,318,7,Electronics,East,59,259
+107,Microwave,01-10-2023,464,6,Electronics,East,330,134
+102,Coffee Maker,10-08-2023,1318,2,Appliances,South,33,1285
+101,Blender,15-01-2023,1065,2,Electronics,East,354,711
+112,Laptop,01-10-2023,724,7,Electronics,North,538,186
+111,Microwave,20-03-2023,1133,1,Appliances,East,266,867
+104,Headphones,10-08-2023,55,2,Electronics,East,564,-509
+108,Microwave,01-10-2023,1031,8,Appliances,West,45,986
+112,Blender,10-02-2023,619,6,Electronics,South,563,56
+102,Coffee Maker,15-10-2023,456,2,Appliances,East,475,-19
+103,Microwave,25-03-2023,1290,7,Appliances,South,532,758
+112,Blender,25-03-2023,75,4,Appliances,North,259,-184
+101,Coffee Maker,10-02-2023,1078,2,Appliances,West,136,942
+101,Laptop,20-03-2023,1035,6,Appliances,South,418,617
+113,Laptop,03-11-2023,439,9,Electronics,East,292,147
+103,Laptop,20-03-2023,759,9,Appliances,North,592,167
+111,Coffee Maker,15-01-2023,620,8,Appliances,East,94,526
+105,Microwave,15-05-2023,803,3,Appliances,South,294,509
+112,Laptop,12-07-2023,195,3,Electronics,North,367,-172
+103,Headphones,15-10-2023,1461,2,Electronics,North,330,1131
+101,Laptop,20-03-2023,834,5,Appliances,South,407,427
+101,Coffee Maker,05-04-2023,1322,4,Electronics,South,204,1118
+108,Smartphone,15-01-2023,575,7,Appliances,North,181,394
+110,Coffee Maker,05-09-2023,62,4,Electronics,West,505,-443
+111,Coffee Maker,20-06-2023,952,9,Appliances,North,295,657
+112,Headphones,05-09-2023,433,2,Electronics,East,358,75
+113,Headphones,03-11-2023,605,6,Appliances,North,192,413
+113,Coffee Maker,15-01-2023,936,7,Electronics,South,467,469
+112,Coffee Maker,15-10-2023,1472,4,Appliances,East,372,1100
+114,Coffee Maker,01-10-2023,68,6,Appliances,North,396,-328
+102,Blender,10-08-2023,624,7,Appliances,North,494,130
+113,Headphones,12-07-2023,800,4,Electronics,West,228,572
+103,Smartphone,20-06-2023,1053,8,Electronics,South,529,524
+102,Headphones,05-09-2023,468,9,Electronics,East,45,423
+103,Laptop,20-06-2023,1410,1,Appliances,North,325,1085
+107,Microwave,05-04-2023,468,7,Appliances,West,540,-72
+101,Blender,05-04-2023,171,9,Electronics,East,268,-97
+110,Blender,01-10-2023,481,5,Electronics,East,330,151
+108,Headphones,03-11-2023,93,2,Electronics,North,35,58
+113,Coffee Maker,05-04-2023,1390,6,Electronics,East,249,1141
+110,Microwave,15-01-2023,430,7,Electronics,North,482,-52
+110,Blender,12-07-2023,194,2,Appliances,West,462,-268
+110,Headphones,15-10-2023,1400,2,Appliances,East,415,985
+114,Blender,01-10-2023,412,1,Appliances,North,324,88
+102,Microwave,15-01-2023,1123,4,Electronics,South,147,976
+103,Smartphone,25-03-2023,1138,7,Appliances,West,434,704
+109,Laptop,10-08-2023,404,9,Appliances,North,595,-191
+107,Microwave,20-12-2023,849,3,Appliances,North,41,808
+104,Laptop,10-08-2023,1237,7,Appliances,North,238,999
+110,Coffee Maker,05-04-2023,1214,7,Appliances,East,194,1020
+105,Headphones,25-03-2023,875,7,Appliances,South,323,552
+102,Microwave,20-03-2023,1201,2,Electronics,East,548,653
+113,Laptop,20-03-2023,447,6,Electronics,East,107,340
+111,Laptop,15-10-2023,929,2,Appliances,North,463,466
+113,Blender,05-04-2023,512,6,Electronics,East,106,406
+108,Blender,05-09-2023,857,3,Appliances,North,77,780
+104,Microwave,15-01-2023,236,2,Electronics,South,111,125
+109,Laptop,05-04-2023,781,6,Electronics,East,238,543
+105,Microwave,15-05-2023,1263,2,Appliances,East,474,789
+113,Blender,20-06-2023,1461,5,Electronics,East,551,910
+109,Microwave,15-10-2023,478,2,Electronics,North,58,420
+104,Coffee Maker,10-08-2023,907,3,Appliances,North,333,574
+110,Smartphone,20-03-2023,1357,3,Electronics,East,494,863
+105,Laptop,10-02-2023,286,6,Electronics,East,531,-245
+109,Coffee Maker,20-12-2023,1267,6,Appliances,South,475,792
+108,Smartphone,20-03-2023,1360,3,Electronics,West,519,841
+103,Blender,15-10-2023,820,3,Appliances,South,457,363
+101,Blender,10-08-2023,807,1,Electronics,North,588,219
+103,Laptop,15-10-2023,185,7,Electronics,South,388,-203
+104,Coffee Maker,20-06-2023,841,8,Appliances,South,120,721
+102,Headphones,10-08-2023,220,2,Electronics,East,82,138
+101,Coffee Maker,03-11-2023,208,4,Electronics,North,233,-25
+107,Blender,10-02-2023,250,7,Appliances,West,585,-335
+108,Smartphone,05-04-2023,1011,8,Electronics,West,185,826
+107,Blender,03-11-2023,632,1,Electronics,South,31,601
+114,Smartphone,25-03-2023,925,4,Electronics,West,386,539
+105,Coffee Maker,10-02-2023,420,6,Appliances,South,598,-178
+112,Laptop,10-08-2023,152,3,Appliances,West,87,65
+101,Blender,10-08-2023,1051,5,Appliances,South,283,768
+107,Microwave,15-05-2023,1198,9,Appliances,East,209,989
+113,Coffee Maker,01-10-2023,1386,3,Electronics,East,522,864
+107,Smartphone,15-05-2023,1025,5,Appliances,West,64,961
+109,Headphones,12-07-2023,847,8,Appliances,East,104,743
+103,Smartphone,15-05-2023,1303,6,Appliances,South,318,985
+109,Coffee Maker,15-01-2023,707,4,Appliances,East,400,307
+114,Headphones,25-03-2023,931,8,Appliances,South,358,573
+101,Headphones,03-11-2023,1270,3,Appliances,North,333,937
+101,Laptop,20-06-2023,782,3,Electronics,South,250,532
+114,Blender,03-11-2023,472,4,Appliances,East,193,279
+104,Smartphone,03-11-2023,621,9,Appliances,North,509,112
+109,Headphones,10-02-2023,220,5,Appliances,North,484,-264
+106,Coffee Maker,10-08-2023,1455,8,Electronics,North,404,1051
+113,Coffee Maker,12-07-2023,222,6,Appliances,North,249,-27
+111,Laptop,12-07-2023,712,3,Appliances,East,283,429
+103,Microwave,20-06-2023,502,8,Electronics,South,217,285
+101,Microwave,25-03-2023,399,9,Electronics,East,220,179
+104,Headphones,10-02-2023,543,8,Appliances,South,418,125
+112,Microwave,20-03-2023,669,4,Appliances,South,244,425
+113,Blender,15-10-2023,1077,6,Electronics,East,404,673
+109,Microwave,15-05-2023,1166,1,Appliances,South,115,1051
+103,Smartphone,15-10-2023,968,4,Appliances,North,503,465
+112,Laptop,15-10-2023,55,8,Appliances,South,560,-505
+109,Headphones,05-04-2023,337,1,Appliances,North,76,261
+107,Blender,15-10-2023,1219,3,Electronics,West,94,1125
+112,Headphones,12-07-2023,1497,1,Appliances,West,504,993
+114,Smartphone,15-05-2023,657,9,Electronics,East,175,482
+104,Smartphone,15-05-2023,506,2,Electronics,East,411,95
+103,Smartphone,15-01-2023,1275,9,Electronics,West,95,1180
+110,Smartphone,25-03-2023,1285,4,Electronics,South,546,739
+105,Laptop,05-04-2023,1079,2,Electronics,South,122,957
+105,Microwave,15-10-2023,673,4,Electronics,South,455,218
+103,Laptop,01-10-2023,425,6,Appliances,West,497,-72
+112,Laptop,20-03-2023,496,7,Appliances,North,123,373
+109,Microwave,03-11-2023,884,3,Appliances,East,162,722
+104,Smartphone,10-08-2023,1179,3,Electronics,North,463,716
+111,Blender,15-01-2023,860,8,Appliances,West,370,490
+105,Headphones,15-05-2023,1474,5,Appliances,North,343,1131
+104,Laptop,15-05-2023,1169,4,Electronics,South,241,928
+105,Blender,05-09-2023,1461,7,Appliances,South,549,912
+107,Microwave,05-04-2023,1008,7,Appliances,North,188,820
+109,Laptop,15-10-2023,898,9,Electronics,West,297,601
+107,Laptop,05-04-2023,858,9,Electronics,North,503,355
+113,Blender,05-09-2023,1028,5,Electronics,South,439,589
+105,Laptop,20-12-2023,465,8,Electronics,North,503,-38
+110,Microwave,03-11-2023,775,1,Appliances,South,385,390
+110,Coffee Maker,05-04-2023,503,9,Appliances,South,222,281
+107,Headphones,15-05-2023,1364,8,Electronics,North,300,1064
+114,Coffee Maker,12-07-2023,1266,6,Electronics,North,143,1123
+110,Headphones,10-02-2023,199,3,Electronics,East,552,-353
+105,Smartphone,15-05-2023,808,3,Appliances,West,84,724
+103,Headphones,15-01-2023,828,8,Appliances,West,94,734
+107,Coffee Maker,25-03-2023,1022,5,Appliances,North,301,721
+113,Blender,20-12-2023,812,7,Appliances,West,531,281
+111,Headphones,05-09-2023,1051,5,Electronics,South,391,660
+111,Smartphone,20-03-2023,1466,8,Appliances,North,175,1291
+102,Smartphone,10-08-2023,1389,4,Appliances,North,238,1151
+112,Laptop,20-03-2023,125,2,Electronics,North,315,-190
+109,Headphones,15-05-2023,648,3,Appliances,East,39,609
+110,Laptop,15-01-2023,1343,8,Appliances,West,215,1128
+110,Blender,15-10-2023,274,7,Appliances,East,493,-219
+112,Smartphone,15-05-2023,162,2,Electronics,West,163,-1
+101,Headphones,25-03-2023,300,6,Appliances,East,200,100
+113,Smartphone,12-07-2023,1306,9,Appliances,North,242,1064
+106,Coffee Maker,03-11-2023,890,4,Appliances,East,559,331
+107,Smartphone,01-10-2023,763,9,Appliances,North,531,232
+114,Microwave,10-08-2023,1156,2,Electronics,East,56,1100
+113,Microwave,25-03-2023,174,2,Appliances,East,97,77
+108,Headphones,05-09-2023,1248,9,Appliances,East,437,811
+110,Coffee Maker,15-10-2023,1142,7,Electronics,North,581,561
+109,Headphones,05-09-2023,1120,7,Appliances,East,138,982
+102,Coffee Maker,15-05-2023,933,1,Appliances,West,103,830
+111,Smartphone,15-01-2023,1329,6,Appliances,West,291,1038
+110,Headphones,25-03-2023,79,7,Electronics,North,397,-318
+102,Laptop,20-06-2023,330,6,Electronics,North,266,64
+105,Microwave,15-10-2023,973,6,Appliances,West,395,578
+113,Headphones,15-01-2023,1310,2,Electronics,South,315,995
+105,Blender,12-07-2023,1321,6,Electronics,East,407,914
+106,Laptop,15-10-2023,417,4,Appliances,South,405,12
+103,Coffee Maker,05-09-2023,544,9,Electronics,South,105,439
+108,Microwave,15-10-2023,1098,1,Electronics,North,38,1060
+113,Headphones,01-10-2023,767,8,Appliances,East,225,542
+101,Laptop,15-05-2023,1066,5,Appliances,North,319,747
+106,Microwave,05-04-2023,1387,1,Appliances,North,90,1297
+104,Blender,05-09-2023,655,4,Appliances,East,418,237
+101,Laptop,01-10-2023,424,1,Appliances,North,592,-168
+107,Laptop,20-12-2023,688,6,Appliances,East,593,95
+109,Blender,10-08-2023,1098,2,Appliances,East,37,1061
+113,Coffee Maker,10-02-2023,1407,5,Electronics,North,398,1009
+104,Microwave,05-04-2023,1428,7,Appliances,North,74,1354
+104,Microwave,15-05-2023,165,2,Electronics,North,373,-208
+106,Laptop,20-06-2023,97,6,Electronics,East,404,-307
+112,Headphones,05-04-2023,148,6,Electronics,South,56,92
+103,Coffee Maker,10-08-2023,454,5,Appliances,East,222,232
+113,Coffee Maker,15-01-2023,1287,5,Appliances,West,386,901
+112,Blender,20-06-2023,734,3,Electronics,South,91,643
+106,Blender,05-09-2023,952,2,Electronics,West,91,861
+107,Coffee Maker,20-06-2023,552,7,Electronics,North,451,101
+111,Coffee Maker,25-03-2023,943,1,Appliances,North,580,363
+110,Coffee Maker,10-08-2023,307,6,Electronics,West,409,-102
+110,Headphones,20-12-2023,893,6,Appliances,West,306,587
+103,Coffee Maker,15-10-2023,170,3,Appliances,North,460,-290
+107,Microwave,01-10-2023,859,2,Appliances,West,144,715
+114,Blender,05-04-2023,1027,2,Electronics,East,150,877
+103,Headphones,25-03-2023,103,9,Appliances,South,554,-451
+113,Coffee Maker,03-11-2023,1068,5,Appliances,East,445,623
+113,Headphones,20-06-2023,1404,7,Electronics,West,192,1212
+102,Laptop,25-03-2023,833,5,Electronics,North,366,467
+112,Blender,20-03-2023,290,7,Electronics,East,408,-118
+114,Microwave,10-08-2023,532,4,Electronics,North,353,179
+110,Coffee Maker,01-10-2023,1062,8,Electronics,East,202,860
+104,Laptop,12-07-2023,236,7,Appliances,North,93,143
+112,Laptop,15-01-2023,705,5,Appliances,East,130,575
+108,Microwave,20-06-2023,311,6,Electronics,East,351,-40
+113,Smartphone,10-08-2023,1002,5,Electronics,South,95,907
+109,Microwave,12-07-2023,1437,7,Appliances,North,586,851
+107,Coffee Maker,12-07-2023,540,2,Appliances,South,487,53
+101,Coffee Maker,03-11-2023,480,5,Electronics,North,482,-2
+103,Smartphone,15-05-2023,288,3,Appliances,East,288,0
+113,Headphones,01-10-2023,353,9,Appliances,South,455,-102
+112,Laptop,25-03-2023,347,6,Electronics,North,207,140
+114,Headphones,12-07-2023,125,3,Appliances,East,309,-184
+109,Microwave,20-03-2023,1406,7,Electronics,South,373,1033
+112,Blender,03-11-2023,1048,4,Electronics,South,46,1002
+101,Coffee Maker,10-08-2023,691,3,Electronics,East,325,366
+109,Smartphone,03-11-2023,876,8,Electronics,South,231,645
+108,Smartphone,10-02-2023,332,4,Electronics,East,223,109
+101,Blender,10-02-2023,640,1,Electronics,West,178,462
+106,Laptop,15-10-2023,121,6,Appliances,West,404,-283
+105,Smartphone,03-11-2023,1336,1,Appliances,North,64,1272
+106,Coffee Maker,15-10-2023,752,5,Electronics,South,398,354
+110,Coffee Maker,20-06-2023,624,7,Appliances,North,58,566
+112,Smartphone,15-10-2023,1049,6,Appliances,North,250,799
+113,Laptop,05-09-2023,941,2,Electronics,North,82,859
+113,Laptop,25-03-2023,61,4,Appliances,East,382,-321
+113,Laptop,05-09-2023,190,2,Appliances,North,421,-231
+105,Coffee Maker,12-07-2023,66,1,Electronics,South,105,-39
+106,Microwave,10-08-2023,1136,3,Appliances,East,523,613
+105,Smartphone,20-06-2023,302,3,Electronics,North,551,-249
+111,Blender,05-04-2023,514,7,Electronics,East,146,368
+112,Laptop,12-07-2023,425,1,Electronics,West,309,116
+105,Microwave,25-03-2023,1030,9,Electronics,East,204,826
+104,Headphones,10-02-2023,569,6,Electronics,East,324,245
+103,Microwave,01-10-2023,139,4,Appliances,South,480,-341
+103,Blender,15-10-2023,769,3,Electronics,North,547,222
+104,Microwave,15-05-2023,853,3,Appliances,East,50,803
+109,Laptop,10-08-2023,845,2,Appliances,East,102,743
+102,Blender,15-01-2023,679,2,Electronics,West,65,614
+109,Smartphone,01-10-2023,1248,5,Appliances,West,536,712
+101,Laptop,05-09-2023,125,9,Electronics,East,262,-137
+114,Smartphone,15-10-2023,975,2,Electronics,North,526,449
+101,Headphones,20-06-2023,449,2,Appliances,East,235,214
+105,Coffee Maker,05-09-2023,1019,6,Electronics,East,455,564
+106,Laptop,10-08-2023,1144,2,Appliances,North,73,1071
+106,Microwave,05-09-2023,1253,4,Appliances,South,120,1133
+103,Blender,10-08-2023,1197,6,Appliances,North,499,698
+107,Headphones,05-09-2023,1454,5,Electronics,North,496,958
+109,Coffee Maker,01-10-2023,1366,1,Electronics,North,483,883
+111,Laptop,03-11-2023,846,6,Appliances,South,362,484
+112,Laptop,20-03-2023,244,1,Electronics,South,536,-292
+110,Headphones,01-10-2023,277,3,Electronics,West,499,-222
+108,Microwave,03-11-2023,510,5,Electronics,South,50,460
+106,Microwave,05-04-2023,667,5,Appliances,West,257,410
+112,Headphones,12-07-2023,1094,6,Appliances,West,405,689
+108,Laptop,12-07-2023,113,8,Appliances,West,159,-46
+112,Laptop,25-03-2023,214,5,Appliances,East,443,-229
+105,Coffee Maker,15-10-2023,76,1,Appliances,East,100,-24
+108,Headphones,01-10-2023,1384,5,Electronics,East,433,951
+110,Microwave,01-10-2023,1061,3,Electronics,West,591,470
+112,Coffee Maker,15-01-2023,334,4,Electronics,West,426,-92
+104,Smartphone,15-01-2023,330,8,Appliances,North,366,-36
+110,Smartphone,25-03-2023,887,7,Electronics,East,534,353
+108,Laptop,15-05-2023,880,5,Appliances,West,305,575
+110,Microwave,12-07-2023,1237,2,Electronics,North,42,1195
+112,Headphones,15-05-2023,967,6,Electronics,West,32,935
+102,Smartphone,15-10-2023,273,6,Appliances,South,253,20
+112,Blender,10-08-2023,833,6,Appliances,North,204,629
+112,Blender,10-08-2023,1219,9,Appliances,West,414,805
+105,Blender,20-12-2023,1014,8,Appliances,North,270,744
+109,Coffee Maker,10-02-2023,999,8,Appliances,West,576,423
+104,Microwave,05-09-2023,1103,1,Appliances,East,43,1060
+111,Headphones,15-01-2023,94,5,Appliances,South,224,-130
+106,Coffee Maker,10-02-2023,520,7,Electronics,East,426,94
+101,Coffee Maker,05-04-2023,83,6,Electronics,West,460,-377
+109,Coffee Maker,25-03-2023,702,5,Appliances,West,335,367
+101,Microwave,25-03-2023,879,8,Electronics,South,363,516
+105,Microwave,10-08-2023,270,3,Appliances,East,439,-169
+104,Laptop,01-10-2023,583,6,Electronics,South,32,551
+113,Microwave,12-07-2023,741,5,Appliances,West,581,160
+112,Smartphone,15-05-2023,1440,8,Electronics,West,481,959
+113,Smartphone,15-01-2023,981,4,Appliances,North,524,457
+113,Coffee Maker,10-02-2023,890,8,Appliances,North,446,444
+114,Coffee Maker,15-05-2023,1060,2,Electronics,South,420,640
+103,Blender,01-10-2023,631,9,Appliances,West,402,229
+113,Microwave,10-02-2023,1189,9,Appliances,East,81,1108
+106,Microwave,03-11-2023,288,6,Appliances,East,405,-117
+102,Coffee Maker,05-09-2023,1408,4,Appliances,East,424,984
+103,Smartphone,05-04-2023,490,4,Appliances,South,171,319
+105,Laptop,20-12-2023,197,6,Electronics,South,115,82
+109,Blender,05-04-2023,1082,5,Appliances,North,493,589
+102,Smartphone,15-05-2023,1361,6,Electronics,East,75,1286
+110,Smartphone,15-05-2023,437,7,Electronics,North,267,170
+108,Smartphone,20-12-2023,1123,7,Appliances,North,39,1084
+114,Microwave,15-05-2023,965,9,Electronics,West,559,406
+102,Laptop,20-12-2023,687,8,Electronics,East,207,480
+111,Coffee Maker,10-02-2023,327,6,Appliances,South,35,292
+113,Coffee Maker,20-12-2023,1038,6,Electronics,West,336,702
+105,Blender,05-09-2023,1373,5,Electronics,North,577,796
+107,Smartphone,20-12-2023,638,1,Electronics,North,356,282
+108,Laptop,03-11-2023,698,9,Appliances,North,385,313
+101,Laptop,20-12-2023,667,9,Appliances,North,424,243
+106,Headphones,20-03-2023,184,9,Electronics,East,329,-145
+101,Smartphone,20-12-2023,629,8,Electronics,North,555,74
+102,Microwave,15-05-2023,1220,3,Electronics,West,314,906
+101,Laptop,03-11-2023,539,1,Appliances,North,359,180
+111,Blender,12-07-2023,527,8,Electronics,South,79,448
+105,Microwave,15-10-2023,1232,7,Electronics,South,407,825
+110,Laptop,03-11-2023,433,5,Electronics,South,567,-134
+109,Smartphone,01-10-2023,212,7,Electronics,East,173,39
+106,Headphones,15-10-2023,490,4,Appliances,East,89,401
+111,Blender,15-01-2023,1262,9,Appliances,South,104,1158
+111,Coffee Maker,15-01-2023,464,2,Appliances,South,32,432
+101,Smartphone,01-10-2023,1412,9,Electronics,North,477,935
+113,Laptop,03-11-2023,1254,9,Electronics,West,304,950
+101,Microwave,10-02-2023,337,5,Electronics,North,559,-222
+102,Headphones,01-10-2023,236,1,Appliances,East,244,-8
+109,Blender,15-10-2023,1211,7,Appliances,East,514,697
+103,Headphones,15-10-2023,179,4,Appliances,North,358,-179
+101,Coffee Maker,15-05-2023,243,9,Appliances,West,284,-41
+105,Blender,10-08-2023,365,6,Appliances,North,416,-51
+107,Headphones,25-03-2023,193,3,Appliances,East,155,38
+106,Laptop,20-03-2023,65,6,Electronics,West,579,-514
+112,Coffee Maker,15-10-2023,1375,6,Appliances,East,353,1022
+101,Coffee Maker,12-07-2023,472,5,Appliances,West,233,239
+105,Laptop,01-10-2023,294,2,Electronics,West,201,93
+105,Laptop,05-09-2023,976,2,Appliances,West,246,730
+106,Coffee Maker,20-12-2023,1180,7,Electronics,North,274,906
+103,Smartphone,10-08-2023,1161,2,Electronics,North,365,796
+105,Coffee Maker,15-10-2023,178,6,Appliances,North,327,-149
+107,Microwave,01-10-2023,956,5,Appliances,West,211,745
+105,Headphones,05-04-2023,936,4,Electronics,West,363,573
+105,Smartphone,10-08-2023,390,7,Electronics,East,540,-150
+105,Headphones,10-02-2023,53,8,Appliances,South,412,-359
+110,Microwave,20-03-2023,1400,4,Appliances,North,228,1172
+110,Laptop,20-06-2023,1483,1,Appliances,West,361,1122
+103,Coffee Maker,20-06-2023,355,1,Electronics,East,194,161
+101,Laptop,15-05-2023,957,1,Electronics,East,271,686
+105,Laptop,15-05-2023,656,1,Appliances,East,256,400
+114,Laptop,10-02-2023,1298,5,Electronics,North,585,713
+109,Microwave,05-09-2023,1421,4,Appliances,North,480,941
+114,Blender,15-05-2023,1041,9,Appliances,South,225,816
+101,Smartphone,25-03-2023,370,3,Electronics,East,233,137
+103,Headphones,15-10-2023,608,7,Electronics,North,487,121
+113,Microwave,20-03-2023,1254,8,Appliances,East,286,968
+113,Laptop,03-11-2023,667,6,Appliances,East,558,109
+104,Headphones,01-10-2023,760,1,Electronics,North,301,459
+114,Laptop,03-11-2023,1459,8,Appliances,West,38,1421
+101,Headphones,10-02-2023,1181,3,Electronics,North,230,951
+101,Blender,15-01-2023,580,8,Electronics,West,88,492
+108,Coffee Maker,01-10-2023,459,4,Appliances,East,422,37
+102,Coffee Maker,01-10-2023,1369,8,Appliances,East,148,1221
+112,Smartphone,05-04-2023,867,1,Electronics,South,582,285
+108,Headphones,10-02-2023,1244,3,Electronics,South,428,816
+107,Coffee Maker,10-02-2023,1404,6,Electronics,South,360,1044
+110,Coffee Maker,20-06-2023,542,9,Electronics,South,296,246
+110,Laptop,12-07-2023,1268,2,Electronics,South,549,719
+102,Coffee Maker,03-11-2023,61,1,Appliances,East,509,-448
+106,Microwave,05-09-2023,244,3,Appliances,South,163,81
+106,Smartphone,12-07-2023,539,4,Appliances,East,384,155
+103,Coffee Maker,20-12-2023,844,5,Appliances,East,527,317
+111,Coffee Maker,25-03-2023,930,3,Appliances,North,136,794
+102,Blender,20-12-2023,231,2,Electronics,East,319,-88
+112,Coffee Maker,15-01-2023,1011,2,Appliances,East,176,835
+101,Headphones,01-10-2023,705,7,Electronics,South,356,349
+106,Laptop,20-06-2023,1389,9,Electronics,East,444,945
+112,Headphones,15-01-2023,743,2,Electronics,West,239,504
+105,Coffee Maker,01-10-2023,79,7,Appliances,South,325,-246
+114,Headphones,25-03-2023,1169,7,Appliances,South,427,742
+114,Coffee Maker,12-07-2023,1454,7,Electronics,South,132,1322
+111,Smartphone,10-02-2023,827,3,Electronics,North,537,290
+109,Headphones,15-05-2023,493,7,Appliances,South,238,255
+101,Headphones,03-11-2023,347,1,Appliances,East,457,-110
+107,Coffee Maker,15-05-2023,857,1,Electronics,West,422,435
+105,Headphones,15-10-2023,894,5,Appliances,South,138,756
+105,Coffee Maker,10-08-2023,1065,2,Appliances,West,377,688
+114,Blender,05-04-2023,1434,9,Appliances,South,79,1355
+102,Laptop,05-09-2023,1447,7,Appliances,North,134,1313
+111,Laptop,25-03-2023,603,4,Electronics,East,449,154
+103,Smartphone,05-04-2023,352,4,Electronics,West,402,-50
+107,Coffee Maker,15-10-2023,470,2,Appliances,West,56,414
+106,Laptop,15-10-2023,1319,5,Electronics,North,302,1017
+112,Coffee Maker,05-09-2023,1310,4,Electronics,East,369,941
+102,Laptop,01-10-2023,234,1,Appliances,North,330,-96
+106,Coffee Maker,05-04-2023,517,8,Appliances,East,509,8
+102,Blender,12-07-2023,803,3,Appliances,North,573,230
+102,Smartphone,05-09-2023,412,6,Electronics,South,586,-174
+102,Coffee Maker,15-10-2023,1356,4,Electronics,North,294,1062
+114,Coffee Maker,12-07-2023,385,9,Appliances,West,571,-186
+111,Coffee Maker,10-02-2023,211,7,Electronics,West,195,16
+103,Laptop,20-06-2023,1233,9,Electronics,North,345,888
+102,Coffee Maker,12-07-2023,1395,3,Appliances,West,30,1365
+104,Blender,01-10-2023,61,1,Electronics,West,290,-229
+109,Blender,15-05-2023,1497,5,Electronics,South,92,1405
+106,Headphones,05-04-2023,1146,3,Appliances,East,512,634
+101,Smartphone,01-10-2023,637,6,Appliances,East,350,287
+108,Blender,10-08-2023,250,8,Appliances,East,230,20
+112,Headphones,03-11-2023,571,4,Electronics,North,251,320
+114,Smartphone,20-03-2023,554,5,Appliances,East,181,373
+107,Coffee Maker,15-10-2023,837,5,Electronics,North,491,346
+110,Smartphone,03-11-2023,1112,4,Electronics,North,246,866
+103,Blender,03-11-2023,109,4,Appliances,East,225,-116
+101,Microwave,05-09-2023,627,4,Appliances,East,231,396
+105,Microwave,25-03-2023,370,4,Electronics,North,263,107
+113,Microwave,10-08-2023,1481,4,Appliances,West,170,1311
+104,Blender,15-05-2023,972,5,Appliances,West,527,445
+110,Coffee Maker,12-07-2023,1459,2,Electronics,West,584,875
+108,Smartphone,20-06-2023,618,2,Electronics,South,86,532
+101,Headphones,01-10-2023,1151,9,Electronics,North,533,618
+110,Blender,10-02-2023,1267,2,Electronics,East,171,1096
+101,Microwave,20-03-2023,1358,6,Appliances,North,568,790
+112,Laptop,15-01-2023,576,2,Electronics,North,135,441
+104,Blender,10-08-2023,573,5,Appliances,East,194,379
+108,Laptop,03-11-2023,662,4,Electronics,South,244,418
+105,Coffee Maker,20-06-2023,1229,7,Electronics,West,100,1129
+102,Headphones,15-01-2023,1413,7,Electronics,North,119,1294
+106,Microwave,20-03-2023,174,6,Appliances,South,257,-83
+105,Microwave,25-03-2023,920,5,Appliances,South,108,812
+102,Coffee Maker,25-03-2023,329,1,Appliances,East,378,-49
+113,Coffee Maker,05-04-2023,966,3,Appliances,North,275,691
+114,Blender,20-12-2023,671,9,Electronics,North,301,370
+111,Coffee Maker,20-03-2023,895,1,Appliances,East,432,463
+111,Headphones,20-03-2023,723,5,Appliances,West,145,578
+111,Headphones,15-01-2023,1201,2,Appliances,West,464,737
+103,Coffee Maker,20-06-2023,363,4,Electronics,South,559,-196
+109,Headphones,01-10-2023,381,1,Electronics,East,471,-90
+107,Coffee Maker,05-09-2023,1223,3,Electronics,West,201,1022
+107,Laptop,20-12-2023,85,7,Appliances,North,45,40
+111,Headphones,15-01-2023,1493,3,Electronics,East,85,1408
+106,Blender,10-02-2023,1095,4,Electronics,South,132,963
+108,Smartphone,03-11-2023,255,2,Appliances,West,313,-58
+104,Coffee Maker,25-03-2023,688,3,Electronics,North,546,142
+108,Microwave,03-11-2023,897,9,Electronics,East,307,590
+104,Coffee Maker,25-03-2023,1429,3,Appliances,North,298,1131
+108,Coffee Maker,05-04-2023,489,5,Electronics,West,429,60
+109,Coffee Maker,01-10-2023,778,2,Appliances,East,532,246
+103,Blender,10-02-2023,1169,4,Appliances,South,115,1054
+103,Coffee Maker,25-03-2023,990,7,Appliances,South,349,641
+111,Microwave,15-01-2023,213,7,Appliances,North,61,152
+113,Coffee Maker,10-02-2023,197,3,Appliances,North,365,-168
+102,Coffee Maker,15-01-2023,343,5,Appliances,North,80,263
+113,Coffee Maker,05-09-2023,244,1,Appliances,East,108,136
+110,Microwave,05-09-2023,712,1,Electronics,South,203,509
+103,Microwave,03-11-2023,529,5,Electronics,North,530,-1
+103,Laptop,25-03-2023,172,9,Appliances,North,105,67
+105,Smartphone,25-03-2023,1473,1,Electronics,West,345,1128
+105,Smartphone,20-06-2023,748,1,Electronics,North,402,346
+102,Microwave,05-09-2023,1014,4,Appliances,West,110,904
+112,Smartphone,01-10-2023,710,4,Appliances,East,100,610
+110,Laptop,01-10-2023,1177,2,Appliances,North,100,1077
+113,Blender,10-08-2023,759,9,Electronics,North,75,684
+106,Microwave,10-08-2023,445,9,Electronics,West,76,369
+105,Microwave,05-04-2023,961,2,Electronics,East,451,510
+106,Smartphone,05-09-2023,1410,9,Appliances,West,178,1232
+101,Blender,15-01-2023,1054,6,Electronics,East,159,895
+105,Smartphone,15-01-2023,1215,8,Electronics,North,485,730
+109,Smartphone,15-05-2023,366,4,Electronics,West,534,-168
+112,Microwave,10-02-2023,1474,2,Appliances,North,273,1201
+110,Laptop,12-07-2023,730,2,Appliances,East,503,227
+114,Microwave,03-11-2023,1383,9,Electronics,South,411,972
+102,Headphones,10-08-2023,544,1,Electronics,East,132,412
+101,Blender,03-11-2023,605,7,Appliances,South,518,87
+114,Smartphone,25-03-2023,659,3,Electronics,North,66,593
+110,Coffee Maker,05-04-2023,158,3,Appliances,North,578,-420
+113,Blender,01-10-2023,421,2,Appliances,West,549,-128
+111,Coffee Maker,12-07-2023,904,6,Appliances,East,362,542
+109,Microwave,20-03-2023,665,2,Electronics,North,426,239
+110,Laptop,05-04-2023,817,4,Appliances,East,325,492
+109,Microwave,20-03-2023,255,9,Appliances,South,136,119
+109,Laptop,15-10-2023,896,9,Electronics,East,559,337
+106,Coffee Maker,05-09-2023,92,6,Electronics,East,112,-20
+108,Microwave,20-03-2023,914,4,Appliances,East,317,597
+114,Blender,20-03-2023,1318,7,Electronics,East,490,828
+111,Blender,03-11-2023,1360,1,Appliances,South,244,1116
+113,Laptop,15-10-2023,1428,4,Appliances,South,310,1118
+101,Blender,20-06-2023,834,5,Electronics,West,488,346
+110,Coffee Maker,20-06-2023,525,8,Electronics,South,373,152
+104,Microwave,20-06-2023,132,2,Electronics,South,223,-91
+101,Headphones,05-09-2023,1183,5,Appliances,West,187,996
+108,Coffee Maker,12-07-2023,239,6,Electronics,South,494,-255
+101,Laptop,05-04-2023,849,5,Electronics,East,133,716
+103,Blender,05-04-2023,985,9,Electronics,North,63,922
+113,Laptop,20-12-2023,300,1,Electronics,North,131,169
+104,Laptop,25-03-2023,340,3,Appliances,West,354,-14
+108,Blender,20-06-2023,1274,2,Appliances,South,170,1104
+106,Headphones,05-09-2023,375,3,Appliances,South,503,-128
+114,Microwave,25-03-2023,1482,9,Electronics,West,60,1422
+110,Headphones,10-02-2023,886,9,Appliances,North,92,794
+112,Smartphone,25-03-2023,557,2,Electronics,East,589,-32
+107,Microwave,03-11-2023,780,3,Appliances,West,116,664
+114,Blender,03-11-2023,121,4,Appliances,East,333,-212
+108,Laptop,12-07-2023,1320,9,Appliances,West,90,1230
+102,Blender,10-08-2023,690,3,Appliances,West,425,265
+113,Blender,20-03-2023,989,7,Electronics,North,363,626
+110,Headphones,20-06-2023,657,3,Appliances,North,440,217
+114,Headphones,20-12-2023,615,7,Appliances,West,313,302
+111,Blender,15-10-2023,1417,7,Electronics,South,495,922
+108,Blender,20-12-2023,103,9,Appliances,East,109,-6
+103,Blender,10-08-2023,577,2,Electronics,South,106,471
+107,Headphones,01-10-2023,660,6,Electronics,North,569,91
+103,Blender,25-03-2023,242,9,Appliances,East,390,-148
+107,Blender,05-09-2023,107,2,Appliances,West,106,1
+114,Smartphone,20-03-2023,1184,2,Electronics,South,538,646
+111,Laptop,05-04-2023,178,5,Electronics,South,193,-15
+112,Coffee Maker,15-01-2023,755,8,Electronics,West,38,717
+113,Laptop,20-03-2023,901,9,Electronics,South,204,697
+102,Microwave,12-07-2023,1399,2,Appliances,North,491,908
+110,Laptop,01-10-2023,57,5,Electronics,South,336,-279
+106,Blender,12-07-2023,78,7,Appliances,West,274,-196
+103,Smartphone,03-11-2023,1185,6,Electronics,East,151,1034
+103,Microwave,25-03-2023,996,6,Appliances,West,214,782
+109,Blender,10-02-2023,180,7,Electronics,South,61,119
+107,Headphones,03-11-2023,237,3,Electronics,North,598,-361
+105,Coffee Maker,12-07-2023,758,3,Electronics,West,339,419
+112,Smartphone,12-07-2023,1437,9,Electronics,North,401,1036
+110,Headphones,05-09-2023,1277,8,Appliances,North,85,1192
+107,Smartphone,25-03-2023,261,5,Appliances,East,302,-41
+109,Microwave,20-03-2023,325,6,Electronics,East,493,-168
+101,Headphones,10-02-2023,1146,1,Electronics,South,485,661
+107,Smartphone,10-08-2023,292,1,Electronics,North,278,14
+106,Coffee Maker,15-01-2023,1175,4,Appliances,North,107,1068
+110,Coffee Maker,20-06-2023,1036,2,Electronics,East,563,473
+114,Blender,05-04-2023,734,7,Electronics,East,137,597
+112,Smartphone,12-07-2023,220,2,Electronics,South,302,-82
+109,Blender,25-03-2023,702,2,Electronics,North,44,658
+101,Laptop,20-06-2023,237,5,Appliances,West,399,-162
+113,Headphones,03-11-2023,1159,4,Electronics,East,333,826
+104,Blender,05-04-2023,101,8,Electronics,South,234,-133
+109,Headphones,20-12-2023,160,4,Electronics,North,142,18
+104,Blender,05-04-2023,926,6,Electronics,North,282,644
+110,Laptop,20-12-2023,1116,5,Appliances,East,470,646
+103,Coffee Maker,10-08-2023,260,2,Appliances,South,215,45
+109,Laptop,10-08-2023,1273,8,Appliances,West,256,1017
+113,Smartphone,03-11-2023,907,2,Electronics,East,557,350
+102,Coffee Maker,10-08-2023,676,9,Electronics,South,383,293
+104,Coffee Maker,15-10-2023,1099,9,Electronics,North,30,1069
+106,Laptop,15-05-2023,348,3,Electronics,West,582,-234
+102,Headphones,15-05-2023,1150,4,Electronics,South,589,561
+108,Microwave,05-04-2023,973,8,Electronics,West,449,524
+108,Blender,10-08-2023,186,9,Appliances,South,190,-4
+101,Laptop,05-09-2023,1093,3,Electronics,South,190,903
+112,Headphones,12-07-2023,489,5,Electronics,South,157,332
+103,Headphones,20-06-2023,260,8,Electronics,West,180,80
+110,Headphones,20-06-2023,801,3,Appliances,East,473,328
+109,Microwave,15-05-2023,484,7,Electronics,West,500,-16
+105,Smartphone,05-04-2023,829,8,Electronics,West,492,337
+106,Blender,03-11-2023,1280,3,Electronics,West,59,1221
+104,Microwave,25-03-2023,488,2,Appliances,South,502,-14
+110,Laptop,20-03-2023,715,7,Electronics,North,586,129
+102,Microwave,20-03-2023,1115,9,Appliances,South,109,1006
+111,Headphones,15-05-2023,460,1,Electronics,North,68,392
+108,Smartphone,25-03-2023,855,3,Electronics,West,269,586
+111,Laptop,15-10-2023,659,5,Electronics,East,586,73
+113,Laptop,15-10-2023,476,3,Appliances,West,366,110
+106,Smartphone,15-05-2023,1348,1,Electronics,East,309,1039
+105,Laptop,20-03-2023,951,7,Electronics,East,145,806
+109,Laptop,25-03-2023,991,7,Electronics,South,298,693
+101,Microwave,10-08-2023,791,8,Electronics,East,364,427
+105,Microwave,05-04-2023,1442,5,Appliances,West,341,1101
+106,Smartphone,03-11-2023,1293,5,Appliances,West,82,1211
+105,Blender,20-06-2023,1305,5,Appliances,South,97,1208
+106,Coffee Maker,05-09-2023,377,1,Appliances,South,63,314
+106,Blender,10-02-2023,101,5,Electronics,North,415,-314
+107,Microwave,20-12-2023,425,6,Electronics,North,278,147
+104,Laptop,20-12-2023,312,1,Electronics,North,140,172
+114,Microwave,05-04-2023,316,7,Electronics,North,123,193
+111,Blender,10-08-2023,408,1,Appliances,East,439,-31
+114,Smartphone,01-10-2023,1390,2,Electronics,South,208,1182
+114,Blender,20-03-2023,1397,2,Appliances,North,76,1321
+114,Smartphone,20-12-2023,701,5,Electronics,West,405,296
+108,Coffee Maker,10-08-2023,1494,7,Appliances,North,231,1263
+107,Microwave,20-12-2023,95,1,Electronics,West,474,-379
+109,Laptop,01-10-2023,649,1,Appliances,West,326,323
+107,Laptop,15-05-2023,769,1,Appliances,West,337,432
+103,Blender,25-03-2023,1342,6,Appliances,East,522,820
+103,Coffee Maker,20-06-2023,650,2,Appliances,North,367,283
+108,Smartphone,12-07-2023,430,1,Electronics,South,95,335
+105,Coffee Maker,15-05-2023,167,6,Electronics,West,451,-284
+104,Smartphone,05-04-2023,165,2,Electronics,South,569,-404
+108,Laptop,15-05-2023,309,6,Electronics,West,522,-213
+106,Blender,05-04-2023,1148,8,Electronics,East,346,802
+102,Smartphone,12-07-2023,354,2,Appliances,South,104,250
+104,Blender,15-01-2023,56,9,Appliances,North,88,-32
+112,Smartphone,01-10-2023,415,8,Electronics,North,415,0
+111,Headphones,20-06-2023,572,1,Electronics,North,44,528
+104,Coffee Maker,05-09-2023,1421,7,Appliances,West,260,1161
+106,Smartphone,05-09-2023,1288,6,Electronics,North,228,1060
+106,Laptop,01-10-2023,478,6,Appliances,East,383,95
+101,Smartphone,10-02-2023,840,6,Electronics,North,64,776
+114,Coffee Maker,20-12-2023,796,6,Electronics,West,191,605
+108,Microwave,10-08-2023,416,7,Electronics,East,500,-84
+106,Coffee Maker,15-01-2023,362,3,Appliances,North,560,-198
+103,Microwave,01-10-2023,587,6,Electronics,East,452,135
+114,Coffee Maker,05-09-2023,970,3,Appliances,East,377,593
+109,Laptop,15-05-2023,1127,7,Appliances,West,176,951
+102,Headphones,10-08-2023,914,7,Electronics,East,403,511
+111,Blender,15-01-2023,1237,8,Appliances,North,445,792
+108,Blender,25-03-2023,831,2,Electronics,East,523,308
+110,Coffee Maker,25-03-2023,383,9,Electronics,South,588,-205
+103,Laptop,10-08-2023,847,5,Appliances,West,285,562
+113,Smartphone,01-10-2023,397,9,Electronics,North,132,265
+112,Headphones,05-04-2023,322,5,Electronics,South,150,172
+105,Laptop,05-04-2023,1012,7,Appliances,South,448,564
+106,Microwave,15-05-2023,769,9,Appliances,North,379,390
+110,Laptop,15-01-2023,1487,4,Electronics,North,71,1416
+106,Smartphone,15-01-2023,549,2,Appliances,West,396,153
+104,Smartphone,10-08-2023,1166,9,Electronics,West,58,1108
+103,Coffee Maker,20-03-2023,734,2,Electronics,North,43,691
+104,Coffee Maker,25-03-2023,128,3,Appliances,East,514,-386
+101,Headphones,15-01-2023,671,2,Appliances,South,218,453
+104,Headphones,10-08-2023,1290,3,Electronics,West,324,966
+101,Coffee Maker,12-07-2023,996,6,Electronics,North,212,784
+112,Laptop,10-02-2023,407,3,Appliances,West,577,-170
+101,Smartphone,12-07-2023,667,8,Electronics,North,66,601
+110,Coffee Maker,20-06-2023,556,6,Appliances,South,43,513
+114,Smartphone,01-10-2023,1254,7,Electronics,North,188,1066
+106,Coffee Maker,15-05-2023,625,1,Electronics,West,523,102
+105,Coffee Maker,15-01-2023,1319,3,Electronics,North,358,961
+114,Coffee Maker,20-06-2023,293,3,Electronics,East,112,181
+111,Coffee Maker,05-09-2023,555,2,Appliances,South,585,-30
+104,Headphones,20-06-2023,471,7,Appliances,East,589,-118
+113,Microwave,03-11-2023,1393,9,Electronics,South,598,795
+111,Coffee Maker,20-12-2023,1160,4,Electronics,North,51,1109
+103,Headphones,10-08-2023,266,5,Electronics,East,161,105
+101,Headphones,15-01-2023,1351,3,Appliances,North,494,857
+106,Blender,10-02-2023,1058,9,Electronics,South,485,573
+102,Smartphone,01-10-2023,1242,4,Electronics,South,331,911
+108,Microwave,10-08-2023,379,5,Electronics,South,296,83
+110,Laptop,03-11-2023,699,1,Appliances,East,424,275
+105,Smartphone,10-08-2023,440,2,Electronics,South,149,291
+107,Headphones,03-11-2023,430,9,Appliances,North,275,155
+110,Laptop,15-05-2023,1379,2,Electronics,West,597,782
+112,Blender,15-05-2023,791,5,Electronics,East,67,724
+102,Blender,25-03-2023,869,8,Electronics,West,274,595
+113,Microwave,25-03-2023,722,3,Electronics,West,50,672
+108,Headphones,05-04-2023,562,6,Appliances,North,139,423
+102,Laptop,20-03-2023,998,4,Electronics,West,423,575
+104,Headphones,15-01-2023,1261,7,Appliances,South,439,822
+101,Laptop,15-01-2023,979,3,Electronics,North,37,942
+105,Smartphone,15-10-2023,962,6,Appliances,East,473,489
+109,Headphones,03-11-2023,693,9,Appliances,East,357,336
+101,Microwave,20-06-2023,476,1,Appliances,East,319,157
+109,Coffee Maker,15-01-2023,551,3,Appliances,North,540,11
+111,Coffee Maker,15-01-2023,779,2,Appliances,East,390,389
+108,Smartphone,20-03-2023,1333,8,Appliances,North,248,1085
+106,Laptop,05-09-2023,120,7,Electronics,South,435,-315
+107,Coffee Maker,25-03-2023,527,2,Electronics,North,249,278
+103,Microwave,25-03-2023,1251,6,Electronics,East,136,1115
+114,Headphones,10-02-2023,506,3,Appliances,North,315,191
+101,Coffee Maker,15-01-2023,238,8,Electronics,North,37,201
+105,Headphones,20-03-2023,340,3,Electronics,West,218,122
+114,Laptop,01-10-2023,969,9,Appliances,North,110,859
+112,Smartphone,25-03-2023,341,1,Appliances,West,137,204
+112,Coffee Maker,20-03-2023,805,5,Appliances,West,350,455
+102,Smartphone,12-07-2023,1356,3,Electronics,North,375,981
+114,Blender,20-12-2023,426,6,Appliances,South,357,69
+105,Microwave,05-09-2023,1229,2,Appliances,West,584,645
+108,Coffee Maker,15-01-2023,557,9,Appliances,North,331,226
+111,Coffee Maker,20-12-2023,1486,6,Appliances,South,229,1257
+109,Laptop,10-02-2023,577,7,Appliances,West,448,129
+102,Smartphone,03-11-2023,1428,5,Appliances,North,68,1360
+112,Blender,20-06-2023,608,9,Electronics,North,336,272
+103,Coffee Maker,25-03-2023,1260,1,Appliances,East,33,1227
+103,Headphones,12-07-2023,1104,5,Electronics,East,106,998
+101,Coffee Maker,01-10-2023,309,6,Electronics,West,497,-188
+108,Microwave,03-11-2023,470,7,Electronics,West,208,262
+106,Microwave,20-03-2023,353,4,Appliances,West,305,48
+112,Laptop,15-05-2023,991,1,Appliances,North,181,810
+113,Microwave,10-08-2023,1112,8,Electronics,West,193,919
+108,Coffee Maker,15-01-2023,591,4,Electronics,North,319,272
+111,Headphones,15-01-2023,1351,3,Electronics,West,407,944
+109,Blender,12-07-2023,1276,7,Electronics,North,339,937
+105,Blender,20-03-2023,1139,2,Electronics,North,418,721
+114,Coffee Maker,05-04-2023,157,8,Appliances,East,212,-55
+112,Blender,15-01-2023,317,6,Electronics,South,335,-18
+114,Coffee Maker,05-04-2023,271,7,Appliances,North,101,170
+103,Smartphone,01-10-2023,1163,5,Electronics,West,248,915
+105,Coffee Maker,15-05-2023,742,9,Appliances,East,202,540
+105,Smartphone,12-07-2023,304,5,Appliances,West,301,3
+105,Coffee Maker,03-11-2023,302,5,Appliances,West,497,-195
+103,Microwave,20-12-2023,306,3,Electronics,North,298,8
+111,Microwave,20-03-2023,432,1,Electronics,North,49,383
+114,Microwave,20-03-2023,491,2,Appliances,South,532,-41
+110,Laptop,15-10-2023,648,8,Electronics,North,176,472
+114,Laptop,01-10-2023,1163,1,Appliances,North,458,705
+104,Laptop,01-10-2023,439,7,Electronics,South,194,245
+109,Laptop,05-09-2023,631,5,Appliances,West,339,292
+113,Coffee Maker,10-08-2023,1117,3,Appliances,South,547,570
+110,Laptop,25-03-2023,647,7,Electronics,East,43,604
+109,Microwave,25-03-2023,68,9,Appliances,East,161,-93
+102,Blender,15-10-2023,1174,2,Electronics,East,468,706
+108,Blender,20-06-2023,656,8,Appliances,North,292,364
+108,Headphones,10-02-2023,1430,9,Electronics,South,254,1176
+107,Headphones,12-07-2023,82,3,Appliances,South,287,-205
+108,Blender,15-05-2023,1302,2,Electronics,East,263,1039
+114,Blender,20-03-2023,911,7,Appliances,North,365,546
+103,Smartphone,10-08-2023,204,5,Electronics,North,438,-234
+113,Laptop,05-04-2023,1496,5,Electronics,North,53,1443
+106,Headphones,12-07-2023,954,5,Appliances,West,300,654
+101,Coffee Maker,20-06-2023,1319,4,Electronics,East,124,1195
+107,Microwave,20-12-2023,454,5,Electronics,West,171,283
+101,Smartphone,12-07-2023,893,4,Appliances,North,110,783
+109,Microwave,20-06-2023,1234,6,Electronics,North,303,931
+101,Blender,20-03-2023,796,4,Electronics,North,305,491
+101,Laptop,10-02-2023,1190,2,Appliances,South,494,696
+107,Laptop,20-06-2023,320,9,Electronics,East,237,83
+102,Blender,20-03-2023,819,2,Appliances,South,325,494
+114,Blender,20-03-2023,221,9,Electronics,West,68,153
+105,Laptop,10-02-2023,323,6,Electronics,South,317,6
+108,Smartphone,25-03-2023,308,9,Appliances,East,153,155
+108,Coffee Maker,12-07-2023,1208,9,Electronics,South,312,896
+103,Laptop,15-10-2023,471,3,Electronics,North,209,262
+107,Coffee Maker,15-01-2023,1494,1,Electronics,West,126,1368
+103,Microwave,15-01-2023,1259,1,Electronics,North,220,1039
+106,Blender,15-10-2023,413,3,Appliances,North,103,310
+106,Coffee Maker,20-12-2023,427,5,Appliances,North,476,-49
+103,Microwave,05-04-2023,629,3,Appliances,East,526,103
+107,Microwave,01-10-2023,940,9,Appliances,South,590,350
+103,Coffee Maker,05-04-2023,771,9,Electronics,West,513,258
+108,Blender,01-10-2023,1269,3,Appliances,North,145,1124
+110,Smartphone,15-10-2023,930,3,Electronics,North,564,366
+104,Headphones,15-01-2023,1171,5,Electronics,South,127,1044
+113,Headphones,15-05-2023,654,2,Electronics,West,357,297
+101,Smartphone,15-01-2023,71,6,Appliances,East,436,-365
+104,Laptop,05-04-2023,1245,7,Electronics,South,342,903
+114,Microwave,10-08-2023,432,9,Electronics,North,177,255
+107,Blender,15-10-2023,183,6,Appliances,North,371,-188
+111,Coffee Maker,20-12-2023,1499,3,Electronics,East,524,975
+104,Laptop,05-04-2023,1098,5,Appliances,South,52,1046
+113,Smartphone,15-05-2023,552,4,Appliances,East,134,418
+106,Smartphone,12-07-2023,1258,5,Electronics,East,587,671
+109,Coffee Maker,01-10-2023,1158,8,Appliances,West,251,907
+101,Headphones,15-01-2023,193,8,Electronics,North,44,149
+113,Headphones,20-12-2023,1485,6,Appliances,South,107,1378
+105,Laptop,10-02-2023,273,1,Appliances,West,351,-78
+111,Coffee Maker,10-08-2023,269,8,Electronics,North,270,-1
+107,Headphones,20-03-2023,228,8,Appliances,North,47,181
+101,Blender,15-05-2023,482,2,Appliances,West,483,-1
+114,Coffee Maker,05-04-2023,314,4,Appliances,North,472,-158
+104,Microwave,01-10-2023,1003,2,Appliances,South,306,697
+106,Laptop,10-02-2023,478,4,Appliances,North,453,25
+102,Laptop,20-12-2023,465,7,Appliances,South,505,-40
+110,Headphones,20-06-2023,776,9,Electronics,North,56,720
+105,Coffee Maker,25-03-2023,246,8,Electronics,South,543,-297
+111,Blender,15-01-2023,1126,9,Electronics,North,493,633
+110,Coffee Maker,03-11-2023,529,8,Electronics,North,392,137
+101,Smartphone,25-03-2023,1403,2,Appliances,North,412,991
+106,Smartphone,15-05-2023,1324,7,Appliances,East,554,770
+106,Laptop,20-06-2023,939,2,Electronics,West,411,528
+113,Headphones,20-06-2023,974,2,Electronics,North,213,761
+104,Headphones,20-12-2023,172,4,Electronics,East,223,-51
+113,Headphones,20-06-2023,1460,1,Electronics,West,491,969
+108,Laptop,20-03-2023,1412,5,Electronics,North,85,1327
+104,Microwave,15-05-2023,827,6,Appliances,West,259,568
+108,Laptop,03-11-2023,397,9,Electronics,East,518,-121
+113,Coffee Maker,12-07-2023,78,8,Electronics,West,57,21
+108,Coffee Maker,25-03-2023,1024,2,Appliances,North,213,811
+105,Coffee Maker,03-11-2023,84,1,Appliances,West,454,-370
+113,Headphones,12-07-2023,1469,2,Appliances,West,404,1065
+104,Blender,10-02-2023,672,7,Appliances,North,70,602
+112,Coffee Maker,05-09-2023,1367,4,Appliances,East,513,854
+113,Smartphone,10-08-2023,638,5,Appliances,East,289,349
+102,Laptop,10-08-2023,1422,7,Appliances,West,470,952
+111,Coffee Maker,12-07-2023,1220,3,Appliances,South,113,1107
+103,Microwave,05-09-2023,1140,2,Electronics,West,75,1065
+103,Laptop,20-12-2023,953,7,Appliances,South,469,484
+104,Smartphone,03-11-2023,569,5,Electronics,West,548,21
+104,Coffee Maker,05-09-2023,171,1,Electronics,East,467,-296
+110,Blender,15-01-2023,389,1,Electronics,West,165,224
+111,Headphones,10-02-2023,224,9,Electronics,East,212,12
+111,Smartphone,15-05-2023,646,5,Electronics,South,201,445
+105,Blender,05-09-2023,500,1,Electronics,West,568,-68
+104,Smartphone,05-04-2023,606,7,Appliances,North,149,457
+111,Smartphone,15-10-2023,1209,9,Electronics,West,310,899
+114,Headphones,20-12-2023,1089,1,Electronics,North,337,752
+110,Smartphone,10-08-2023,1406,4,Appliances,North,306,1100
+108,Laptop,05-04-2023,1268,3,Appliances,South,559,709
+106,Coffee Maker,10-02-2023,58,5,Electronics,East,324,-266
+106,Headphones,05-09-2023,383,7,Electronics,North,82,301
+108,Blender,25-03-2023,1406,8,Appliances,North,461,945
+107,Laptop,10-08-2023,1066,2,Appliances,East,81,985
+110,Blender,15-01-2023,376,7,Electronics,East,101,275
+114,Laptop,01-10-2023,64,1,Electronics,West,57,7
+111,Smartphone,15-01-2023,888,7,Electronics,East,498,390
+112,Microwave,15-10-2023,275,8,Electronics,West,576,-301
+110,Blender,20-06-2023,1498,2,Appliances,South,430,1068
+113,Headphones,01-10-2023,1481,9,Electronics,South,230,1251
+108,Laptop,20-03-2023,162,1,Electronics,North,495,-333
+114,Coffee Maker,05-09-2023,50,6,Appliances,North,589,-539
+102,Smartphone,10-02-2023,315,1,Appliances,North,408,-93
+109,Microwave,10-08-2023,1281,3,Electronics,West,206,1075
+101,Coffee Maker,20-03-2023,1001,6,Appliances,North,81,920
+108,Blender,10-02-2023,1442,3,Electronics,North,108,1334
+112,Smartphone,15-10-2023,355,8,Electronics,North,414,-59
+111,Laptop,12-07-2023,61,5,Appliances,West,37,24
+112,Microwave,05-09-2023,1418,2,Appliances,West,243,1175
+112,Microwave,15-05-2023,1441,4,Appliances,South,54,1387
+104,Smartphone,15-05-2023,986,9,Electronics,South,479,507
+104,Blender,05-09-2023,469,4,Appliances,South,486,-17
+105,Coffee Maker,01-10-2023,938,8,Appliances,North,490,448
+108,Coffee Maker,20-06-2023,220,5,Appliances,East,227,-7
+105,Smartphone,20-06-2023,183,1,Electronics,West,123,60
+108,Blender,01-10-2023,1014,7,Electronics,North,466,548
+110,Headphones,03-11-2023,1098,3,Electronics,North,556,542
+101,Microwave,15-05-2023,1263,8,Electronics,South,407,856
+112,Smartphone,25-03-2023,1214,3,Appliances,North,133,1081
+110,Smartphone,01-10-2023,707,1,Appliances,West,68,639
+109,Smartphone,10-08-2023,1388,5,Electronics,North,487,901
+106,Coffee Maker,15-05-2023,1392,2,Appliances,East,393,999
+103,Smartphone,25-03-2023,1165,4,Electronics,East,164,1001
+113,Headphones,15-10-2023,228,1,Electronics,West,403,-175
+114,Coffee Maker,20-03-2023,1129,9,Appliances,East,261,868
+108,Headphones,25-03-2023,1228,6,Electronics,East,68,1160
+109,Coffee Maker,20-03-2023,160,8,Electronics,South,76,84
+106,Microwave,10-02-2023,186,4,Appliances,East,65,121
+111,Microwave,20-12-2023,281,9,Appliances,North,124,157
+107,Coffee Maker,05-04-2023,1041,2,Electronics,East,390,651
+101,Laptop,10-02-2023,517,9,Appliances,South,554,-37
+114,Coffee Maker,15-05-2023,781,5,Appliances,North,175,606
+105,Coffee Maker,20-03-2023,530,6,Electronics,East,397,133
+105,Laptop,15-05-2023,1141,3,Electronics,West,94,1047
+110,Smartphone,01-10-2023,863,4,Appliances,North,257,606
+114,Blender,05-09-2023,1322,6,Appliances,North,549,773
+104,Microwave,10-08-2023,1043,7,Electronics,West,584,459
+106,Coffee Maker,15-01-2023,372,1,Electronics,West,210,162
+107,Headphones,15-05-2023,971,7,Electronics,East,530,441
+109,Laptop,10-08-2023,953,1,Appliances,East,184,769
+101,Blender,01-10-2023,655,5,Electronics,South,564,91
+106,Smartphone,25-03-2023,478,6,Electronics,South,464,14
+107,Coffee Maker,01-10-2023,1342,2,Appliances,North,128,1214
+103,Blender,15-10-2023,197,9,Appliances,West,401,-204
+108,Smartphone,10-02-2023,1191,6,Electronics,North,592,599
+105,Coffee Maker,03-11-2023,899,7,Electronics,North,391,508
+109,Microwave,25-03-2023,416,8,Appliances,South,141,275
+105,Laptop,15-01-2023,899,1,Electronics,South,482,417
+109,Microwave,20-03-2023,1139,8,Appliances,East,198,941
+110,Laptop,05-09-2023,862,4,Appliances,North,168,694
+104,Headphones,10-08-2023,1443,8,Appliances,North,260,1183
+109,Smartphone,05-09-2023,224,6,Appliances,North,268,-44
+105,Laptop,05-04-2023,637,9,Appliances,South,282,355
+110,Laptop,01-10-2023,544,4,Appliances,South,465,79
+109,Microwave,15-05-2023,1022,2,Electronics,West,590,432
+103,Laptop,20-03-2023,1187,2,Electronics,South,451,736
+104,Laptop,05-04-2023,1184,5,Appliances,East,332,852
+109,Coffee Maker,01-10-2023,1220,9,Appliances,West,101,1119
+110,Microwave,12-07-2023,84,3,Electronics,West,292,-208
+111,Laptop,15-05-2023,1048,8,Electronics,North,251,797
+106,Blender,25-03-2023,1382,4,Electronics,South,106,1276
+102,Laptop,10-02-2023,587,6,Electronics,North,91,496
+107,Laptop,20-12-2023,799,6,Appliances,South,500,299
+102,Laptop,10-08-2023,1087,3,Electronics,South,186,901
+111,Smartphone,03-11-2023,423,5,Electronics,North,154,269
+102,Smartphone,15-10-2023,606,3,Electronics,North,190,416
+111,Laptop,15-01-2023,282,1,Electronics,North,570,-288
+101,Laptop,15-01-2023,754,7,Appliances,North,564,190
+111,Coffee Maker,03-11-2023,612,4,Appliances,East,135,477
+111,Microwave,25-03-2023,988,7,Appliances,North,160,828
+112,Laptop,20-06-2023,936,3,Appliances,South,386,550
+111,Microwave,15-01-2023,775,5,Appliances,East,31,744
+103,Coffee Maker,10-08-2023,1348,5,Electronics,North,262,1086
+106,Headphones,25-03-2023,125,2,Appliances,East,398,-273
+108,Blender,20-03-2023,488,2,Appliances,South,280,208
+109,Coffee Maker,15-01-2023,748,4,Electronics,East,137,611
+107,Smartphone,05-09-2023,1362,4,Appliances,East,305,1057
+104,Blender,25-03-2023,964,4,Electronics,West,209,755
+106,Headphones,10-08-2023,940,6,Appliances,West,322,618
+105,Headphones,03-11-2023,741,2,Electronics,North,204,537
+108,Coffee Maker,20-12-2023,302,6,Appliances,East,152,150
+101,Blender,05-09-2023,1199,7,Electronics,South,256,943
+101,Laptop,15-05-2023,1250,3,Electronics,North,473,777
+113,Laptop,15-05-2023,1110,8,Electronics,West,457,653
+111,Coffee Maker,15-01-2023,459,2,Appliances,North,112,347
+106,Coffee Maker,05-09-2023,176,8,Appliances,East,94,82
+110,Laptop,10-02-2023,1241,5,Appliances,West,310,931
+112,Blender,01-10-2023,641,2,Appliances,North,420,221
+102,Laptop,15-05-2023,343,7,Appliances,South,457,-114
+105,Laptop,10-02-2023,1416,2,Electronics,North,136,1280
+101,Laptop,20-03-2023,1069,6,Electronics,North,577,492
+107,Blender,25-03-2023,359,3,Appliances,North,291,68
+101,Coffee Maker,01-10-2023,711,9,Electronics,East,188,523
+104,Blender,05-04-2023,577,3,Appliances,East,294,283
+109,Coffee Maker,10-08-2023,589,3,Appliances,South,497,92
+101,Headphones,15-10-2023,468,5,Electronics,East,231,237
+104,Coffee Maker,25-03-2023,493,7,Electronics,East,184,309
+106,Coffee Maker,03-11-2023,734,8,Appliances,West,42,692
+106,Headphones,01-10-2023,889,7,Electronics,East,326,563
+112,Coffee Maker,10-08-2023,285,9,Appliances,West,527,-242
+113,Blender,01-10-2023,263,5,Electronics,East,274,-11
+108,Blender,05-09-2023,134,3,Appliances,South,329,-195
+101,Blender,20-03-2023,843,6,Appliances,North,391,452
+107,Smartphone,12-07-2023,134,5,Electronics,East,383,-249
+101,Laptop,15-10-2023,114,4,Appliances,North,550,-436
+113,Blender,15-01-2023,712,2,Electronics,North,415,297
+114,Headphones,01-10-2023,676,7,Electronics,North,341,335
+107,Blender,10-08-2023,113,5,Appliances,West,443,-330
+103,Smartphone,10-08-2023,1416,4,Appliances,South,307,1109
+111,Laptop,05-09-2023,988,8,Appliances,West,385,603
+108,Headphones,10-02-2023,968,9,Electronics,North,554,414
+103,Smartphone,25-03-2023,1425,9,Appliances,South,45,1380
+114,Coffee Maker,03-11-2023,1231,3,Electronics,South,74,1157
+114,Microwave,12-07-2023,540,3,Electronics,East,350,190
+113,Microwave,20-06-2023,1298,5,Appliances,West,355,943
+101,Headphones,15-01-2023,362,5,Appliances,West,177,185
+113,Coffee Maker,05-04-2023,664,2,Electronics,East,384,280
+113,Laptop,20-06-2023,968,1,Appliances,North,265,703
+114,Smartphone,25-03-2023,862,8,Appliances,North,134,728
+108,Coffee Maker,15-01-2023,989,3,Electronics,West,503,486
+103,Smartphone,10-08-2023,1161,1,Appliances,East,425,736
+102,Laptop,20-12-2023,1376,1,Electronics,South,475,901
+101,Coffee Maker,05-04-2023,729,2,Electronics,West,249,480
+114,Laptop,01-10-2023,484,6,Electronics,South,471,13
+103,Coffee Maker,10-02-2023,731,6,Electronics,East,57,674
+102,Microwave,12-07-2023,1208,3,Appliances,East,504,704
+102,Microwave,01-10-2023,1123,4,Appliances,East,334,789
+106,Microwave,03-11-2023,389,2,Appliances,North,434,-45
+112,Coffee Maker,10-02-2023,396,2,Electronics,North,542,-146
+101,Smartphone,20-03-2023,695,7,Electronics,East,531,164
+102,Smartphone,20-12-2023,1420,1,Electronics,North,377,1043
+114,Coffee Maker,05-09-2023,698,7,Electronics,East,269,429
+106,Smartphone,15-01-2023,294,1,Electronics,South,599,-305
+103,Blender,01-10-2023,158,6,Appliances,South,366,-208
+104,Coffee Maker,10-02-2023,582,3,Appliances,South,55,527
+101,Smartphone,20-12-2023,1163,8,Appliances,South,438,725
+108,Microwave,20-06-2023,345,6,Appliances,East,106,239
+113,Headphones,05-09-2023,161,2,Appliances,South,246,-85
+107,Coffee Maker,10-02-2023,1250,8,Electronics,South,357,893
+107,Laptop,15-05-2023,392,5,Electronics,East,52,340
+103,Microwave,20-03-2023,150,8,Electronics,South,339,-189
+110,Microwave,25-03-2023,678,8,Electronics,West,296,382
+110,Coffee Maker,01-10-2023,1474,6,Appliances,North,444,1030
+103,Microwave,03-11-2023,77,2,Electronics,North,296,-219
+114,Microwave,12-07-2023,986,8,Appliances,West,362,624
+102,Coffee Maker,20-12-2023,107,6,Appliances,North,479,-372
+112,Smartphone,20-03-2023,346,6,Appliances,North,594,-248
+101,Headphones,05-09-2023,183,8,Appliances,North,276,-93
+107,Laptop,15-05-2023,1404,1,Electronics,North,65,1339
+107,Headphones,15-01-2023,298,2,Electronics,East,430,-132
+112,Coffee Maker,20-06-2023,1070,9,Appliances,West,57,1013
+102,Blender,12-07-2023,599,8,Appliances,North,249,350
+107,Laptop,01-10-2023,951,7,Appliances,South,435,516
+113,Microwave,20-12-2023,1148,7,Appliances,North,300,848
+108,Coffee Maker,12-07-2023,883,5,Appliances,West,540,343
+101,Blender,20-03-2023,1241,2,Electronics,East,315,926
+109,Smartphone,20-12-2023,820,6,Electronics,West,483,337
+107,Smartphone,05-09-2023,1428,3,Appliances,North,346,1082
+103,Laptop,15-01-2023,1298,4,Appliances,South,326,972
+108,Smartphone,10-08-2023,195,2,Electronics,West,367,-172
+107,Headphones,03-11-2023,1314,2,Appliances,South,336,978
+111,Headphones,15-05-2023,942,8,Electronics,East,457,485
+113,Laptop,01-10-2023,393,8,Appliances,West,380,13
+108,Coffee Maker,10-08-2023,1108,6,Appliances,West,540,568
+106,Blender,20-06-2023,751,5,Electronics,East,554,197
+109,Smartphone,15-01-2023,50,8,Electronics,East,521,-471
+105,Headphones,15-10-2023,202,4,Electronics,East,38,164
+103,Laptop,15-10-2023,478,4,Electronics,North,526,-48
+103,Laptop,15-01-2023,557,5,Appliances,North,589,-32
+101,Microwave,15-05-2023,1199,1,Electronics,West,590,609
+112,Laptop,05-04-2023,540,1,Appliances,West,469,71
+108,Headphones,10-08-2023,394,2,Appliances,South,581,-187
+102,Smartphone,10-02-2023,270,8,Electronics,East,137,133
+103,Laptop,12-07-2023,772,7,Electronics,East,274,498
+108,Smartphone,01-10-2023,1098,9,Electronics,North,284,814
+114,Smartphone,05-04-2023,577,5,Electronics,East,62,515
+108,Microwave,10-02-2023,1255,2,Electronics,South,52,1203
+114,Blender,03-11-2023,890,7,Electronics,South,595,295
+111,Headphones,05-09-2023,1115,8,Appliances,East,78,1037
+104,Headphones,01-10-2023,530,7,Electronics,South,491,39
+104,Microwave,01-10-2023,979,7,Electronics,South,365,614
+105,Smartphone,15-10-2023,921,5,Electronics,North,387,534
+106,Coffee Maker,15-05-2023,1475,2,Electronics,West,151,1324
+105,Coffee Maker,05-09-2023,394,6,Electronics,South,473,-79
+114,Blender,12-07-2023,94,4,Electronics,West,388,-294
+107,Headphones,25-03-2023,70,2,Appliances,East,375,-305
+102,Blender,10-02-2023,1143,9,Appliances,East,222,921
+107,Headphones,15-10-2023,922,7,Appliances,South,445,477
+110,Blender,01-10-2023,97,6,Electronics,East,406,-309
+107,Coffee Maker,05-04-2023,600,5,Electronics,North,492,108
+101,Microwave,15-10-2023,336,3,Appliances,South,175,161
+107,Headphones,10-02-2023,1051,4,Electronics,South,507,544
+105,Blender,10-02-2023,1083,3,Appliances,East,437,646
+103,Smartphone,15-05-2023,591,8,Electronics,East,315,276
+113,Laptop,01-10-2023,805,3,Electronics,South,140,665
+103,Coffee Maker,05-09-2023,323,7,Appliances,West,79,244
+104,Coffee Maker,10-08-2023,1005,7,Electronics,East,43,962
+113,Coffee Maker,03-11-2023,649,7,Electronics,East,163,486
+112,Blender,25-03-2023,430,7,Appliances,West,372,58
+102,Microwave,15-05-2023,1402,2,Appliances,South,315,1087
+102,Coffee Maker,20-06-2023,528,3,Appliances,East,343,185
+101,Blender,03-11-2023,64,9,Appliances,South,326,-262
+105,Coffee Maker,01-10-2023,565,3,Electronics,South,598,-33
+104,Laptop,15-05-2023,240,2,Appliances,South,193,47
+111,Headphones,12-07-2023,1241,9,Electronics,East,526,715
+110,Blender,25-03-2023,670,9,Appliances,South,45,625
+102,Smartphone,15-10-2023,1210,4,Electronics,West,373,837
+103,Headphones,15-01-2023,203,9,Electronics,North,107,96
+107,Coffee Maker,20-06-2023,1461,3,Appliances,West,375,1086
+107,Microwave,20-03-2023,1282,7,Appliances,South,101,1181
+112,Laptop,20-12-2023,321,7,Appliances,North,299,22
+104,Microwave,15-05-2023,192,8,Electronics,South,316,-124
+105,Laptop,10-02-2023,1142,4,Electronics,West,95,1047
+105,Laptop,10-08-2023,296,3,Electronics,North,97,199
+106,Smartphone,15-01-2023,1334,3,Electronics,North,222,1112
+114,Blender,15-05-2023,837,5,Appliances,South,84,753
+109,Blender,15-05-2023,128,1,Appliances,South,408,-280
+102,Headphones,05-04-2023,672,3,Electronics,North,197,475
+105,Microwave,03-11-2023,574,6,Appliances,East,438,136
+112,Headphones,05-04-2023,821,3,Appliances,East,537,284
+103,Laptop,15-01-2023,987,5,Appliances,West,566,421
+104,Coffee Maker,05-09-2023,1403,9,Appliances,South,131,1272
+110,Microwave,15-10-2023,1262,2,Electronics,West,451,811
+106,Laptop,05-04-2023,1168,2,Electronics,East,507,661
+112,Laptop,10-02-2023,666,6,Electronics,East,149,517
+108,Laptop,20-06-2023,1081,6,Appliances,South,320,761
+101,Headphones,20-03-2023,116,8,Appliances,North,517,-401
+110,Laptop,03-11-2023,240,2,Electronics,South,190,50
+114,Coffee Maker,25-03-2023,1439,9,Electronics,East,107,1332
+108,Laptop,20-03-2023,817,2,Electronics,North,67,750
+111,Headphones,20-03-2023,570,1,Appliances,West,423,147
+114,Laptop,25-03-2023,1039,2,Appliances,East,470,569
+107,Headphones,05-04-2023,1190,7,Appliances,West,569,621
+101,Blender,15-01-2023,316,8,Appliances,North,491,-175
+102,Blender,25-03-2023,534,5,Electronics,West,323,211
+103,Headphones,15-10-2023,1371,6,Electronics,East,429,942
+101,Laptop,15-10-2023,1237,1,Appliances,South,121,1116
+114,Coffee Maker,01-10-2023,425,6,Appliances,West,35,390
+109,Headphones,12-07-2023,702,8,Electronics,East,300,402
+108,Headphones,05-09-2023,1341,3,Electronics,East,588,753
+102,Headphones,20-06-2023,598,1,Appliances,North,128,470
+113,Coffee Maker,10-08-2023,1147,4,Electronics,East,555,592
+109,Blender,05-04-2023,122,1,Appliances,South,223,-101
+107,Microwave,03-11-2023,357,8,Electronics,South,186,171
+109,Laptop,05-09-2023,248,5,Electronics,West,144,104
+106,Microwave,25-03-2023,1203,1,Appliances,West,425,778
+106,Smartphone,12-07-2023,621,8,Appliances,West,551,70
+111,Smartphone,10-08-2023,840,9,Electronics,West,243,597
+114,Laptop,03-11-2023,1224,2,Electronics,South,562,662
+104,Microwave,20-06-2023,1279,9,Appliances,North,44,1235
+110,Laptop,20-12-2023,228,8,Electronics,West,448,-220
+110,Headphones,20-06-2023,246,7,Appliances,North,397,-151
+113,Coffee Maker,05-04-2023,784,3,Appliances,East,242,542
+113,Coffee Maker,25-03-2023,138,2,Appliances,East,34,104
+102,Laptop,20-12-2023,848,7,Electronics,East,260,588
+107,Microwave,05-09-2023,837,5,Electronics,North,230,607
+105,Blender,15-01-2023,797,6,Electronics,North,431,366
+111,Smartphone,05-09-2023,1256,4,Electronics,East,178,1078
+106,Headphones,05-09-2023,258,2,Electronics,West,521,-263
+102,Smartphone,20-06-2023,542,9,Electronics,North,255,287
+105,Coffee Maker,15-01-2023,1203,3,Appliances,North,198,1005
+110,Smartphone,15-01-2023,714,7,Appliances,South,181,533
+104,Laptop,05-04-2023,1086,8,Appliances,East,253,833
+109,Smartphone,03-11-2023,920,2,Electronics,East,533,387
+106,Smartphone,10-08-2023,781,6,Electronics,South,579,202
+102,Blender,15-05-2023,1179,8,Appliances,West,73,1106
+101,Laptop,20-03-2023,1448,7,Electronics,North,533,915
+105,Smartphone,03-11-2023,747,3,Electronics,East,270,477
+109,Microwave,20-03-2023,1172,1,Electronics,West,380,792
+106,Coffee Maker,20-06-2023,643,6,Electronics,West,52,591
+110,Laptop,15-05-2023,935,8,Appliances,East,72,863
+112,Blender,10-08-2023,901,6,Appliances,East,495,406
+107,Coffee Maker,15-05-2023,1265,5,Appliances,North,69,1196
+105,Smartphone,05-04-2023,374,8,Appliances,South,332,42
+110,Headphones,05-09-2023,1028,2,Electronics,East,204,824
+106,Microwave,20-06-2023,1005,1,Appliances,South,561,444
+105,Headphones,15-01-2023,943,1,Appliances,West,490,453
+111,Laptop,15-10-2023,1440,4,Appliances,South,222,1218
+109,Headphones,20-06-2023,1391,6,Electronics,North,273,1118
+106,Coffee Maker,20-03-2023,193,9,Electronics,West,309,-116
+111,Smartphone,20-12-2023,433,1,Electronics,North,65,368
+108,Coffee Maker,10-08-2023,265,1,Appliances,West,586,-321
+102,Coffee Maker,15-05-2023,1434,5,Electronics,North,569,865
+112,Smartphone,10-08-2023,373,5,Appliances,North,183,190
+113,Microwave,03-11-2023,1088,5,Electronics,West,52,1036
+109,Laptop,05-04-2023,266,6,Electronics,North,120,146
+105,Headphones,20-06-2023,1000,8,Appliances,West,419,581
+107,Smartphone,03-11-2023,232,3,Electronics,North,388,-156
+110,Coffee Maker,20-12-2023,319,9,Electronics,East,579,-260
+113,Laptop,25-03-2023,994,1,Electronics,West,257,737
+101,Microwave,20-06-2023,919,4,Appliances,North,231,688
+110,Smartphone,03-11-2023,516,9,Electronics,East,379,137
+105,Microwave,15-01-2023,354,8,Electronics,West,67,287
+112,Coffee Maker,20-06-2023,1217,9,Appliances,West,529,688
+114,Laptop,12-07-2023,160,1,Electronics,West,72,88
+110,Headphones,05-04-2023,1063,9,Electronics,South,546,517
+114,Laptop,10-02-2023,281,3,Appliances,North,97,184
+102,Coffee Maker,05-04-2023,644,9,Appliances,North,152,492
+112,Blender,15-05-2023,1346,1,Electronics,West,365,981
+106,Coffee Maker,15-10-2023,222,1,Electronics,West,182,40
+111,Laptop,10-02-2023,1022,9,Electronics,West,191,831
+101,Smartphone,20-12-2023,1080,6,Electronics,East,243,837
+103,Microwave,15-05-2023,1228,4,Appliances,West,405,823
+105,Headphones,15-05-2023,595,7,Appliances,South,472,123
+104,Smartphone,15-01-2023,597,5,Electronics,North,452,145
+103,Smartphone,20-12-2023,567,7,Appliances,South,567,0
+110,Microwave,15-01-2023,963,8,Appliances,West,259,704
+113,Microwave,20-12-2023,264,8,Appliances,East,88,176
+105,Coffee Maker,01-10-2023,183,1,Electronics,West,125,58
+111,Smartphone,05-09-2023,334,8,Electronics,West,291,43
+108,Blender,20-03-2023,1199,6,Appliances,West,383,816
+111,Blender,20-12-2023,735,4,Appliances,North,341,394
+104,Smartphone,05-09-2023,1225,8,Appliances,South,165,1060
+101,Microwave,05-09-2023,380,3,Electronics,East,502,-122
+111,Coffee Maker,15-10-2023,1456,4,Electronics,West,459,997
+107,Coffee Maker,20-03-2023,1188,6,Appliances,East,566,622
+108,Smartphone,25-03-2023,943,7,Electronics,North,175,768
+103,Headphones,10-02-2023,1357,4,Electronics,South,553,804
+106,Headphones,10-08-2023,948,4,Electronics,West,116,832
+102,Microwave,05-09-2023,1148,7,Appliances,North,138,1010
+107,Smartphone,15-10-2023,1239,6,Electronics,North,452,787
+108,Laptop,01-10-2023,1262,8,Appliances,West,374,888
+106,Microwave,20-12-2023,127,1,Appliances,South,295,-168
+106,Headphones,20-06-2023,996,7,Appliances,South,523,473
+105,Microwave,20-06-2023,737,7,Electronics,East,362,375
+108,Coffee Maker,15-05-2023,70,7,Electronics,East,442,-372
+101,Blender,20-03-2023,615,7,Electronics,East,220,395
+110,Coffee Maker,15-05-2023,1257,8,Electronics,North,171,1086
+104,Laptop,20-12-2023,1295,9,Electronics,South,102,1193
+104,Headphones,15-10-2023,876,9,Appliances,West,196,680
+103,Laptop,12-07-2023,1401,2,Electronics,North,197,1204
+103,Smartphone,12-07-2023,228,7,Appliances,West,595,-367
+104,Laptop,01-10-2023,1185,7,Electronics,West,288,897
+111,Laptop,03-11-2023,1132,4,Appliances,South,468,664
+101,Microwave,10-08-2023,1400,9,Electronics,North,140,1260
+114,Laptop,15-01-2023,954,8,Appliances,South,560,394
+111,Microwave,20-12-2023,718,1,Electronics,North,319,399
+113,Smartphone,15-01-2023,240,2,Appliances,South,591,-351
+111,Blender,20-03-2023,1273,2,Appliances,East,539,734
+102,Microwave,20-03-2023,1385,8,Electronics,West,204,1181
+109,Laptop,05-09-2023,757,1,Appliances,North,331,426
+110,Blender,12-07-2023,1108,4,Electronics,East,214,894
+102,Smartphone,05-09-2023,428,5,Electronics,North,368,60
+105,Coffee Maker,15-01-2023,436,9,Appliances,East,539,-103
+109,Laptop,03-11-2023,286,7,Electronics,West,339,-53
+109,Coffee Maker,10-02-2023,665,8,Electronics,South,536,129
+108,Laptop,10-02-2023,332,9,Appliances,East,375,-43
+101,Coffee Maker,20-03-2023,50,7,Appliances,East,110,-60
+101,Coffee Maker,03-11-2023,513,5,Appliances,South,403,110
+109,Microwave,15-05-2023,1303,5,Electronics,West,185,1118
+113,Laptop,15-01-2023,1016,6,Appliances,East,461,555
+111,Coffee Maker,10-02-2023,221,5,Appliances,West,529,-308
+108,Microwave,03-11-2023,1160,9,Appliances,North,176,984
+110,Laptop,03-11-2023,1196,3,Electronics,East,510,686
+109,Blender,15-01-2023,892,3,Appliances,South,464,428
+107,Microwave,05-04-2023,1371,7,Appliances,East,548,823
+103,Blender,03-11-2023,739,7,Electronics,North,98,641
+103,Blender,03-11-2023,624,6,Electronics,East,215,409
+102,Coffee Maker,20-06-2023,214,3,Electronics,West,233,-19
+105,Blender,12-07-2023,432,7,Electronics,North,583,-151
+112,Headphones,05-09-2023,258,5,Appliances,West,42,216
+112,Smartphone,15-01-2023,1462,7,Appliances,East,303,1159
+103,Microwave,20-06-2023,273,2,Electronics,South,327,-54
+114,Laptop,03-11-2023,52,6,Appliances,East,80,-28
+106,Headphones,05-04-2023,421,8,Electronics,North,529,-108
+102,Laptop,05-09-2023,660,1,Appliances,North,398,262
+112,Microwave,15-01-2023,165,4,Appliances,North,386,-221
+103,Laptop,20-03-2023,1343,1,Electronics,North,32,1311
+105,Blender,20-06-2023,496,1,Electronics,North,283,213
+112,Coffee Maker,05-09-2023,1441,8,Appliances,East,504,937
+111,Coffee Maker,15-01-2023,1326,7,Appliances,North,535,791
+111,Laptop,20-06-2023,1390,1,Appliances,North,285,1105
+101,Smartphone,05-04-2023,464,2,Appliances,North,179,285
+113,Coffee Maker,15-01-2023,1168,4,Appliances,South,517,651
+101,Smartphone,15-01-2023,941,1,Electronics,South,308,633
+110,Headphones,20-12-2023,1097,3,Appliances,East,88,1009
+109,Headphones,15-01-2023,712,8,Electronics,East,475,237
+107,Coffee Maker,01-10-2023,1123,8,Electronics,West,142,981
+101,Coffee Maker,10-08-2023,767,8,Electronics,South,598,169
+112,Blender,01-10-2023,1408,6,Appliances,East,518,890
+114,Coffee Maker,03-11-2023,1152,6,Appliances,North,436,716
+108,Blender,20-03-2023,1100,5,Appliances,East,396,704
+103,Microwave,03-11-2023,320,9,Electronics,North,89,231
+108,Blender,05-04-2023,611,4,Electronics,North,358,253
+105,Coffee Maker,01-10-2023,853,7,Appliances,East,498,355
+101,Smartphone,05-09-2023,296,1,Appliances,West,596,-300
+107,Laptop,15-10-2023,436,9,Electronics,East,92,344
+105,Headphones,10-08-2023,751,7,Electronics,West,213,538
+106,Laptop,15-05-2023,608,9,Appliances,East,340,268
+106,Coffee Maker,15-10-2023,1022,7,Electronics,East,567,455
+108,Microwave,10-08-2023,1434,2,Electronics,West,206,1228
+109,Microwave,12-07-2023,1033,6,Electronics,West,458,575
+102,Coffee Maker,12-07-2023,401,4,Appliances,East,102,299
+109,Laptop,15-01-2023,1329,3,Appliances,North,196,1133
+112,Headphones,03-11-2023,1295,2,Appliances,North,254,1041
+111,Microwave,10-08-2023,802,6,Appliances,North,38,764
+110,Microwave,15-05-2023,830,8,Appliances,South,265,565
+109,Coffee Maker,10-08-2023,1074,6,Appliances,West,57,1017
+113,Blender,20-03-2023,595,9,Appliances,South,56,539
+110,Smartphone,15-10-2023,128,5,Appliances,North,579,-451
+110,Headphones,20-03-2023,1309,2,Electronics,East,225,1084
+107,Laptop,15-05-2023,383,8,Appliances,South,232,151
+101,Coffee Maker,10-08-2023,938,9,Appliances,North,114,824
+107,Microwave,20-06-2023,1422,4,Appliances,South,59,1363
+110,Microwave,20-12-2023,1171,6,Electronics,East,495,676
+105,Coffee Maker,03-11-2023,1155,8,Electronics,North,128,1027
+106,Headphones,20-03-2023,551,9,Electronics,North,219,332
+110,Blender,20-03-2023,814,5,Appliances,East,41,773
+107,Microwave,10-02-2023,970,6,Appliances,East,59,911
+114,Smartphone,10-08-2023,599,4,Appliances,West,67,532
+105,Headphones,03-11-2023,63,5,Electronics,West,323,-260
+107,Coffee Maker,20-03-2023,441,7,Appliances,West,389,52
+109,Laptop,01-10-2023,1420,9,Appliances,East,209,1211
+103,Blender,05-04-2023,359,6,Appliances,West,141,218
+108,Coffee Maker,20-12-2023,435,6,Electronics,East,473,-38
+102,Smartphone,20-12-2023,1282,8,Electronics,North,50,1232
+111,Headphones,10-08-2023,1430,4,Appliances,East,174,1256
+107,Coffee Maker,12-07-2023,1023,3,Electronics,North,528,495
+113,Coffee Maker,10-02-2023,1167,7,Electronics,North,175,992
+102,Headphones,20-03-2023,1166,5,Electronics,South,470,696
+114,Headphones,10-02-2023,389,2,Appliances,West,450,-61
+104,Laptop,12-07-2023,646,2,Electronics,West,345,301
+107,Coffee Maker,15-05-2023,806,6,Electronics,East,195,611
+103,Microwave,15-05-2023,1095,8,Electronics,West,232,863
+102,Laptop,15-10-2023,340,1,Electronics,South,525,-185
+111,Laptop,10-08-2023,355,6,Appliances,East,497,-142
+110,Blender,12-07-2023,683,2,Electronics,East,414,269
+107,Microwave,25-03-2023,1201,2,Electronics,East,343,858
+101,Laptop,15-10-2023,674,7,Electronics,West,284,390
+114,Coffee Maker,25-03-2023,988,1,Appliances,West,52,936
+108,Laptop,10-08-2023,1346,6,Electronics,West,368,978
+103,Coffee Maker,15-01-2023,897,7,Electronics,East,522,375
+112,Laptop,03-11-2023,491,8,Electronics,East,540,-49
+112,Smartphone,10-02-2023,552,7,Electronics,North,395,157
+113,Blender,10-02-2023,179,6,Appliances,North,401,-222
+102,Headphones,03-11-2023,1205,9,Electronics,West,248,957
+103,Headphones,03-11-2023,646,3,Appliances,East,504,142
+105,Coffee Maker,15-05-2023,911,6,Appliances,West,452,459
+111,Smartphone,25-03-2023,1463,4,Appliances,North,385,1078
+108,Smartphone,03-11-2023,642,2,Appliances,South,489,153
+110,Microwave,01-10-2023,1048,1,Electronics,South,532,516
+107,Microwave,05-09-2023,374,1,Appliances,South,56,318
+107,Laptop,03-11-2023,1142,3,Appliances,East,252,890
+112,Coffee Maker,20-03-2023,497,4,Appliances,East,177,320
+107,Smartphone,20-03-2023,868,2,Electronics,West,453,415
+108,Microwave,20-03-2023,1238,1,Appliances,North,380,858
+101,Laptop,15-05-2023,758,4,Appliances,North,215,543
+104,Smartphone,20-12-2023,1499,7,Electronics,West,444,1055
+113,Microwave,12-07-2023,314,6,Appliances,West,458,-144
+106,Microwave,01-10-2023,661,6,Appliances,North,70,591
+109,Coffee Maker,20-06-2023,1415,9,Electronics,West,422,993
+113,Smartphone,20-12-2023,881,2,Appliances,South,108,773
+102,Headphones,25-03-2023,1351,4,Appliances,South,573,778
+101,Coffee Maker,01-10-2023,723,5,Appliances,South,479,244
+113,Laptop,15-10-2023,206,1,Electronics,North,503,-297
+110,Blender,25-03-2023,1495,8,Electronics,West,171,1324
+112,Coffee Maker,01-10-2023,300,8,Appliances,East,280,20
+114,Coffee Maker,05-09-2023,927,6,Appliances,East,323,604
+102,Blender,01-10-2023,579,5,Appliances,West,165,414
+107,Blender,01-10-2023,376,8,Appliances,West,513,-137
+103,Coffee Maker,20-12-2023,1010,3,Appliances,South,341,669
+110,Smartphone,01-10-2023,944,3,Electronics,East,584,360
+102,Coffee Maker,10-02-2023,146,2,Electronics,East,75,71
+114,Smartphone,20-12-2023,562,5,Electronics,East,265,297
+111,Microwave,15-01-2023,265,3,Electronics,South,77,188
+107,Laptop,10-08-2023,1205,3,Electronics,North,227,978
+113,Microwave,15-10-2023,1333,6,Electronics,North,113,1220
+113,Coffee Maker,15-10-2023,174,8,Electronics,East,572,-398
+102,Coffee Maker,10-02-2023,1155,2,Electronics,West,190,965
+103,Microwave,03-11-2023,1356,4,Appliances,North,457,899
+111,Blender,12-07-2023,108,7,Appliances,North,100,8
+107,Headphones,10-08-2023,210,1,Appliances,South,549,-339
+114,Coffee Maker,25-03-2023,333,1,Electronics,West,81,252
+104,Laptop,12-07-2023,155,7,Appliances,West,74,81
+113,Laptop,10-08-2023,1178,7,Electronics,South,322,856
+114,Laptop,05-09-2023,277,1,Appliances,East,494,-217
+101,Laptop,05-09-2023,367,1,Appliances,East,579,-212
+113,Microwave,05-04-2023,851,4,Appliances,East,409,442
+114,Laptop,03-11-2023,923,5,Electronics,North,507,416
+105,Laptop,20-12-2023,521,5,Appliances,South,291,230
+112,Headphones,20-06-2023,1129,4,Electronics,South,208,921
+109,Smartphone,05-09-2023,674,8,Appliances,North,386,288
+108,Coffee Maker,25-03-2023,62,7,Appliances,North,448,-386
+112,Laptop,15-01-2023,1091,9,Appliances,West,230,861
+109,Coffee Maker,20-03-2023,743,7,Appliances,East,42,701
+110,Smartphone,05-04-2023,1022,1,Electronics,North,472,550
+114,Blender,20-03-2023,162,7,Electronics,North,315,-153
+109,Smartphone,15-10-2023,278,1,Electronics,North,287,-9
+107,Coffee Maker,03-11-2023,220,7,Electronics,West,599,-379
+104,Coffee Maker,01-10-2023,344,8,Appliances,North,577,-233
+105,Coffee Maker,20-06-2023,238,9,Electronics,East,519,-281
+101,Coffee Maker,15-10-2023,475,3,Electronics,West,527,-52
+114,Coffee Maker,10-08-2023,1026,4,Electronics,East,362,664
+101,Laptop,15-10-2023,1152,4,Appliances,North,591,561
+103,Smartphone,15-05-2023,707,9,Electronics,North,61,646
+113,Laptop,03-11-2023,968,7,Appliances,East,72,896
+114,Coffee Maker,05-09-2023,1255,3,Appliances,West,380,875
+108,Smartphone,15-01-2023,548,5,Appliances,East,363,185
+114,Smartphone,20-06-2023,811,7,Appliances,North,588,223
+102,Coffee Maker,20-03-2023,915,8,Electronics,South,299,616
+104,Headphones,05-04-2023,875,1,Electronics,East,442,433
+102,Laptop,05-09-2023,120,2,Electronics,East,48,72
+114,Microwave,25-03-2023,297,7,Appliances,East,376,-79
+105,Laptop,05-09-2023,195,2,Electronics,North,66,129
+109,Coffee Maker,05-04-2023,1369,7,Appliances,North,121,1248
+101,Coffee Maker,05-04-2023,631,9,Appliances,East,214,417
+105,Coffee Maker,15-05-2023,519,2,Electronics,North,57,462
+114,Coffee Maker,20-12-2023,242,7,Electronics,North,577,-335
+109,Coffee Maker,05-09-2023,1141,4,Electronics,East,401,740
+101,Headphones,15-10-2023,543,2,Electronics,North,559,-16
+109,Coffee Maker,05-09-2023,101,7,Appliances,South,374,-273
+108,Coffee Maker,03-11-2023,931,5,Electronics,North,448,483
+104,Microwave,03-11-2023,412,1,Appliances,North,225,187
+112,Smartphone,01-10-2023,966,5,Appliances,West,107,859
+111,Blender,15-05-2023,523,3,Appliances,West,196,327
+110,Microwave,12-07-2023,570,7,Electronics,East,119,451
+105,Coffee Maker,12-07-2023,1371,6,Appliances,East,293,1078
+113,Coffee Maker,01-10-2023,740,8,Appliances,West,501,239
+105,Laptop,10-08-2023,1271,5,Electronics,South,237,1034
+111,Microwave,12-07-2023,1201,2,Electronics,North,300,901
+112,Microwave,03-11-2023,581,9,Appliances,South,292,289
+106,Coffee Maker,01-10-2023,1484,8,Electronics,West,535,949
+107,Microwave,10-02-2023,889,6,Appliances,East,541,348
+108,Coffee Maker,20-12-2023,1138,7,Electronics,North,553,585
+114,Smartphone,20-12-2023,290,9,Electronics,East,341,-51
+108,Coffee Maker,15-10-2023,1442,7,Appliances,South,203,1239
+111,Smartphone,05-09-2023,585,3,Appliances,South,460,125
+114,Laptop,15-10-2023,1457,6,Appliances,East,492,965
+113,Blender,01-10-2023,132,7,Appliances,East,130,2
+102,Blender,15-01-2023,1031,2,Appliances,West,45,986
+109,Smartphone,05-09-2023,1000,3,Appliances,East,287,713
+107,Smartphone,10-02-2023,660,4,Appliances,East,273,387
+104,Laptop,10-02-2023,623,6,Appliances,West,377,246
+104,Coffee Maker,15-10-2023,335,1,Appliances,East,278,57
+111,Coffee Maker,20-03-2023,1038,9,Electronics,South,134,904
+108,Laptop,05-09-2023,508,5,Electronics,East,316,192
+104,Smartphone,20-06-2023,1285,7,Appliances,North,198,1087
+113,Smartphone,10-02-2023,175,9,Appliances,West,449,-274
+106,Coffee Maker,20-12-2023,1486,9,Electronics,South,76,1410
+105,Coffee Maker,15-01-2023,474,1,Electronics,West,72,402
+103,Laptop,20-12-2023,603,1,Electronics,North,350,253
+113,Blender,15-05-2023,659,3,Electronics,North,250,409
+114,Coffee Maker,10-08-2023,1231,6,Appliances,South,542,689
+110,Coffee Maker,20-03-2023,161,2,Appliances,East,470,-309
+111,Laptop,15-05-2023,451,1,Appliances,South,173,278
+102,Coffee Maker,20-03-2023,171,1,Appliances,North,57,114
+109,Coffee Maker,20-12-2023,322,5,Electronics,West,582,-260
+110,Coffee Maker,03-11-2023,1367,4,Appliances,East,196,1171
+109,Smartphone,15-01-2023,447,1,Appliances,North,278,169
+101,Laptop,20-12-2023,520,4,Electronics,South,386,134
+110,Smartphone,03-11-2023,1034,3,Electronics,South,140,894
+103,Microwave,15-10-2023,1280,2,Electronics,East,263,1017
+108,Smartphone,05-04-2023,1183,9,Appliances,South,53,1130
+106,Headphones,05-09-2023,1351,1,Electronics,South,55,1296
+105,Coffee Maker,20-12-2023,618,7,Electronics,South,410,208
+105,Blender,03-11-2023,1187,4,Electronics,East,375,812
+106,Coffee Maker,01-10-2023,946,5,Appliances,North,407,539
+107,Laptop,25-03-2023,869,5,Electronics,East,551,318
+101,Coffee Maker,20-06-2023,902,1,Electronics,North,46,856
+109,Smartphone,15-05-2023,759,6,Appliances,North,274,485
+103,Microwave,05-09-2023,370,9,Appliances,East,568,-198
+104,Blender,20-06-2023,228,2,Electronics,North,231,-3
+110,Coffee Maker,05-04-2023,946,7,Appliances,North,277,669
+101,Laptop,25-03-2023,268,6,Electronics,North,147,121
+113,Coffee Maker,20-06-2023,838,5,Electronics,East,38,800
+111,Microwave,20-06-2023,541,4,Electronics,West,52,489
+110,Coffee Maker,15-05-2023,110,4,Electronics,East,269,-159
+103,Laptop,12-07-2023,1127,6,Electronics,West,56,1071
+102,Coffee Maker,25-03-2023,587,4,Appliances,East,110,477
+102,Headphones,05-09-2023,897,5,Electronics,East,228,669
+114,Blender,05-04-2023,1037,6,Electronics,West,584,453
+101,Blender,25-03-2023,114,5,Electronics,North,121,-7
+108,Blender,15-10-2023,635,7,Appliances,West,113,522
+103,Smartphone,15-01-2023,220,9,Appliances,West,329,-109
+103,Blender,15-10-2023,1346,7,Electronics,West,325,1021
+106,Coffee Maker,12-07-2023,584,7,Electronics,East,483,101
+113,Microwave,15-01-2023,1464,4,Appliances,East,310,1154
+108,Laptop,05-04-2023,742,1,Appliances,South,88,654
+113,Blender,15-05-2023,1400,8,Electronics,West,371,1029
+109,Blender,15-05-2023,157,4,Appliances,West,494,-337
+109,Coffee Maker,03-11-2023,1235,1,Electronics,South,371,864
+104,Blender,05-04-2023,863,5,Appliances,West,91,772
+114,Coffee Maker,20-03-2023,1054,8,Appliances,North,458,596
+105,Smartphone,05-04-2023,501,4,Electronics,North,285,216
+102,Coffee Maker,15-10-2023,1279,8,Electronics,West,376,903
+111,Laptop,12-07-2023,639,8,Electronics,East,555,84
+109,Headphones,20-12-2023,1089,3,Appliances,North,333,756
+108,Smartphone,10-02-2023,376,9,Electronics,South,274,102
+103,Laptop,15-05-2023,657,3,Appliances,North,441,216
+111,Smartphone,10-08-2023,708,1,Electronics,South,246,462
+112,Blender,12-07-2023,51,2,Appliances,West,545,-494
+113,Microwave,20-12-2023,1083,6,Electronics,North,503,580
+109,Smartphone,01-10-2023,483,2,Appliances,East,65,418
+103,Microwave,12-07-2023,174,6,Appliances,North,207,-33
+109,Laptop,12-07-2023,1154,1,Electronics,East,416,738
+102,Microwave,03-11-2023,534,1,Electronics,South,46,488
+112,Coffee Maker,20-06-2023,701,5,Electronics,West,77,624
+110,Coffee Maker,12-07-2023,1223,9,Electronics,West,91,1132
+109,Coffee Maker,03-11-2023,849,8,Appliances,East,98,751
+108,Headphones,15-05-2023,922,3,Appliances,South,395,527
+109,Smartphone,10-02-2023,1413,3,Appliances,South,191,1222
+105,Blender,10-02-2023,178,1,Electronics,East,517,-339
+111,Laptop,12-07-2023,487,3,Appliances,East,460,27
+111,Smartphone,01-10-2023,800,1,Appliances,North,518,282
+102,Blender,15-01-2023,550,8,Electronics,West,259,291
+108,Coffee Maker,15-05-2023,1131,1,Electronics,West,399,732
+112,Laptop,03-11-2023,1271,5,Electronics,North,207,1064
+106,Smartphone,15-05-2023,260,9,Appliances,East,439,-179
+108,Coffee Maker,01-10-2023,951,7,Appliances,East,597,354
+111,Blender,25-03-2023,94,4,Electronics,East,299,-205
+105,Coffee Maker,15-10-2023,1170,9,Appliances,East,235,935
+110,Smartphone,01-10-2023,1352,9,Appliances,South,111,1241
+102,Microwave,03-11-2023,584,2,Electronics,West,222,362
+106,Microwave,01-10-2023,1483,6,Electronics,West,218,1265
