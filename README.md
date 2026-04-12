@@ -1,8 +1,8 @@
 
 <h1 align="center"> DATA SCIENCE LEARNING </h1>
 <p align="center"><em> specializing in Data Science, Machine Learning, Business Analytics, and Generative AI.</em></p>
-<p align="center"><em> A collaborative repository to organize notes, resources, and hands-on projects from our Data Science learning path. Built for reproducible learning, peer growth, and profile enhancement.
- </em></p>
+<p align="center"><em> A collaborative repository to organize notes, resources, and hands-on projects from our Data Science learning path. Built for reproducible learning, peer growth, and profile enhancement.</em></p>
+<p align="center"><em> https://yiwen-song.github.io/paper_orchestra/ </em></p>
 
 ---
 
