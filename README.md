@@ -1,71 +1,107 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=The%20Data%20Science%20Journey&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Business%20Analytics%20%E2%80%A2%20GenAI&descAlignY=55&descSize=14"/>
+</div>
 
-<h1 align="center"> DATA SCIENCE LEARNING </h1>
-<p align="center"><em> specializing in Data Science, Machine Learning, Business Analytics, and Generative AI.</em></p>
-<p align="center"><em> A collaborative repository to organize notes, resources, and hands-on projects from our Data Science learning path. Built for reproducible learning, peer growth, and profile enhancement.</em></p>
-<p align="center"><em> https://yiwen-song.github.io/paper_orchestra/ </em></p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=A+structured+Data+Science+learning+repo;Notes+%2B+Resources+%2B+Projects;Open+for+contributions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## INTRODUCTION
+<img src="https://img.shields.io/badge/status-actively%20maintained-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Kanakbaghel/The_Data_Science_Journey?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/forks/Kanakbaghel/The_Data_Science_Journey?style=for-the-badge&logo=github&color=blue"/>
+<img src="https://img.shields.io/github/contributors/Kanakbaghel/The_Data_Science_Journey?style=for-the-badge&color=orange"/>
 
-Welcome to our repository, This repository is designed to be **beginner-friendly**, with clear examples, reproducible workflows, and step-by-step guidance for anyone starting their journey in **Data Science, Business Analytics, and Generative AI**.
-
-This repository serves as a central hub for our collective learning journey. It is designed to:
-
-- **Collect and organize valuable resources** related to Data Science, Business Analytics, and Generative AI.
-- **Share notes, code snippets, projects, and tutorials** contributed by members.
-- **Foster collaboration and peer learning** among all participants.
-- **Track progress and milestones** throughout the programme.
-
-Our goal is to build a rich, well-structured knowledge base that benefits every member and future learners alike.
-
-----
-## Outcome
-
-- Understand core principles, algorithms, and practical applications of Data Science and Business Analytics across various sectors.​
-- Develop expertise in using data science tools and programming languages to efficiently manipulate, analyze, and visualize data.​
-- Apply data science techniques to address real-world business challenges in areas such as marketing, finance, supply chain, and web analytics.​
-- Develop skills to translate complex data findings into clear, compelling stories and visualizations, making insights easily understandable and actionable for decision-makers.​
-- Analyze business problems with a critical and analytical perspective, utilizing appropriate data science methodologies to generate meaningful solutions
-
----
-## Who We Are
-
-We are a motivated and diverse group of learners united by a shared passion for data science and analytics. Together, we aim to:
-
-- Deepen our understanding of core concepts.
-- Apply practical skills through hands-on projects.
-- Stay updated with the latest advancements in AI and analytics.
-- Support each other in overcoming challenges and achieving success.
+</div>
 
 ---
 
-## How to Contribute
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280"/>
 
-Your contributions make this repository valuable! Here’s how you can get involved:
+## 👩‍💻 About This Repository
 
-- **Add Resources:** Share articles, books, videos, datasets, and tools.
-- **Submit Code:** Upload scripts, notebooks, and project files.
-- **Write Documentation:** Help create clear explanations and tutorials.
-- **Report Issues:** Suggest improvements or report errors.
-- **Collaborate:** Participate in discussions and peer reviews.
+I'm **Kanak Baghel** — a Data Analyst with a background in Financial Investment Analysis and a Post Graduate Certification in Data Science & Business Analytics from **IIT Guwahati (Emeritus)**.
 
- **Fork & Clone** this repo  
-   ```bash
-   git clone https://github.com/your-username/DSBA_Emeritus.git
-   ```
+I created this repository during my learning journey to organize everything in one place — notes, resources, code, and projects. It's structured to be **beginner-friendly** so anyone starting out in Data Science can follow along.
 
-Please follow the repository’s contribution guidelines and maintain professionalism and respect in all interactions.
+**What you'll find here:**
+- 📚 Curated resources and reading material
+- 🛠️ Theory & tools explained simply
+- 💡 Hands-on notebooks and code snippets
+- 🗺️ A structured roadmap for beginners
+
+> *Open to contributions — if you're on a similar journey, feel free to add your notes or projects!*
+
+<br clear="right"/>
+
+---
+
+## 📂 Repository Structure
+
+```
+The_Data_Science_Journey/
+│
+├── 📁 Resources/                  # Curated articles, links & reading material
+├── 📁 Theory & Tools/             # Concept notes and tool guides  
+├── 📁 What is Data Science?/      # Foundational intro material
+└── 📓 15-data-science-hacks.ipynb # Practical Python tips for faster analysis
+```
 
 ---
 
-## 🌐 Community & Support
-- Join discussions in **Issues** and **Pull Requests**.  
-- Share your learning journey in the repo.  
-- Respect open-source etiquette: be kind, collaborative, and constructive.  
+## 🛠️ Tech Stack Covered
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
 
 ---
-> _" Let’s learn, grow, and innovate — together! "_
-<p align="center"><em>Crafted with ♥ by <strong>Our Team</strong>
 
+## 🤝 How to Contribute
+
+Contributions are welcome! Here's how:
+
+1. **Fork** this repository
+2. **Add** your notes, notebooks, or resources
+3. **Submit a Pull Request** with a short description
+
+```bash
+git clone https://github.com/Kanakbaghel/The_Data_Science_Journey.git
+```
+
+Please keep contributions organized, beginner-friendly, and respectful. ✅
+
+---
+
+## 👩‍💼 About the Creator
+
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Kanak Baghel |
+| **Certification** | PG in Data Science & Business Analytics with GenAI — IIT Guwahati (99.29%) |
+| **Background** | BBA in Financial Investment Analysis, DU SOL |
+| **Portfolio** | [kanak.itsfolio.tech](https://kanak.itsfolio.tech) |
+| **LinkedIn** | [kanakbaghel](https://www.linkedin.com/in/kanakbaghel) |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <em>"The journey of a thousand miles begins with a single line of code."</em><br><br>
+  <strong>Started & maintained by Kanak Baghel • Open for contributions 🚀</strong>
+</div>
