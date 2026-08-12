@@ -1,13 +1,3 @@
-"""
-=============================================================================
-01. BASICS OF STATISTICS & DESCRIPTIVE ANALYSIS
-=============================================================================
-Repository: The Data Science Journey
-Topic: Statistics & Mathematics for Data Science
-Author: Kanak Baghel
-=============================================================================
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
