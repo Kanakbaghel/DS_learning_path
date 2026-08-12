@@ -90,7 +90,7 @@ Please keep contributions organized, beginner-friendly, and respectful. ✅
 | **Name** | Kanak Baghel |
 | **Certification** | PG in Data Science & Business Analytics with GenAI — IIT Guwahati (99.29%) |
 | **Background** | BBA in Financial Investment Analysis, DU SOL |
-| **Portfolio** | [kanak.itsfolio.tech](http://www.artfolio.tech/kanak) |
+| **Portfolio** | [portfolio](http://www.artfolio.tech/kanak) |
 | **LinkedIn** | [kanakbaghel](https://www.linkedin.com/in/kanakbaghel) |
 
 </div>
