@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+
+# R & RStudio stuff
 .Rhistory
+.RData
+.RDataTmp
+.RuserData
+*.Rproj
 
 # Distribution / packaging
 .Python
