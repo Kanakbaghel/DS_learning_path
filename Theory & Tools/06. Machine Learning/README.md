@@ -5,27 +5,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-* [⚡ Free GPU Compute Comparison](https://www.google.com/search?q=%23-free-gpu-compute-comparison)
-* [⚙️ Quick Setup Guides](https://www.google.com/search?q=%23%EF%B8%8F-quick-setup-guides)
-* [📊 Datasets & Pre-Trained Models](https://www.google.com/search?q=%23-datasets--pre-trained-models)
-* [👁️ Computer Vision Workflows](https://www.google.com/search?q=%23%EF%B8%8F-computer-vision-workflows)
-* [📦 Deployment & Optimization](https://www.google.com/search?q=%23-deployment--optimization)
-* [📚 Curated Research & Literature](https://www.google.com/search?q=%23-curated-research--literature)
-* [1. Feature Selection](https://www.google.com/search?q=%231-feature-selection)
-* [2. Classical ML & Decision Trees](https://www.google.com/search?q=%232-classical-ml--decision-trees)
-* [3. Hyperparameter Optimization](https://www.google.com/search?q=%233-hyperparameter-optimization)
-* [4. Time Series Forecasting](https://www.google.com/search?q=%234-time-series-forecasting)
-* [5. Ensemble & Deep Learning](https://www.google.com/search?q=%235-ensemble--deep-learning)
-* [6. Data Mining & Association Rules](https://www.google.com/search?q=%236-data-mining--association-rules)
-
-
-* [🎓 Learning Resources](https://www.google.com/search?q=%23-learning-resources)
-* [🛠️ Recommended Workflow](https://www.google.com/search?q=%23%EF%B8%8F-recommended-workflow)
-
----
-
 ## ⚡ Free GPU Compute Comparison
 
 | Platform | Best For | Hardware Specs | Session Limit | Background Execution | Persistent Storage |
