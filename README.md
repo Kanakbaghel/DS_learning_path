@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/github/contributors/Kanakbaghel/The_Data_Science_Journey?style=for-the-badge&color=orange"/>
 
 </div>
+https://github.com/jakevdp/PythonDataScienceHandbook
 
 ---
 
