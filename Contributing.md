@@ -22,3 +22,19 @@ You can contribute in multiple ways:
 3. **Clone your Fork:**
    ```bash
    git clone [https://github.com/YOUR-USERNAME/The_Data_Science_Journey.git](https://github.com/YOUR-USERNAME/The_Data_Science_Journey.git)
+
+
+Create a New Branch:
+
+```Bash
+git checkout -b feature/YourFeatureName
+Make your changes & Commit:
+
+
+```Bash
+git commit -m "Add: brief description of your changes"
+Push to GitHub & Open a PR:
+
+```Bash
+git push origin feature/YourFeatureName
+Go to the original repo and click Compare & pull request.
